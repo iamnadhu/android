@@ -7,6 +7,9 @@
 # Files for the ART/Dalvik VM
 *.dex
 
+# Files for the DS Store
+*.DS_Store
+
 # Java class files
 *.class
 
@@ -83,6 +86,3 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
-
-# macOS
-.DS_Store
