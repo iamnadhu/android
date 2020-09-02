@@ -1,6 +1,7 @@
 package com.nadhu014.myfirstapp;
 
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
@@ -11,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
     TextView tvHeading;
     Button btnReset, btnSubmit;
+    private String TAG = "MainActivity";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
         btnReset.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                Log.d(TAG, "onClick: Reset Button Clicked...");
+                System.out.println("Reset Button Clicked...");
                 tvHeading.setText("My First App!");
             }
         });
@@ -31,6 +35,8 @@ public class MainActivity extends AppCompatActivity {
         btnSubmit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                Log.d(TAG, "onClick: Submit Button Clicked...");
+                System.out.println("Reset Button Clicked...");
                 tvHeading.setText("Welcome to Android.");
             }
         });
