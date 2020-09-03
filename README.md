@@ -1,25 +1,23 @@
 # Android
+This is a small coding world for building your 'Android' Mobile Application.
+
 ## Author 
-Created by [Nadhu](https://linktr.ee/iamnadhu)
+Created by 
 
-Follow me on:
-Instagram: [iamnadhu](https://www.instagram.com/iamnadhu/)
+[Nadhu](https://linktr.ee/iamnadhu)
 
-WhatsApp: [iamnadhu](https://api.whatsapp.com/send?phone=917293451396&lang=en)
+Follow me on: 
 
-Facebook: [iamnadhu](https://www.facebook.com/iamnadhu/)
-
-Linkedln: [iamnadhu](https://www.linkedin.com/in/iamnadhu/)
-
-Telegram: [iamnadhu](https://t.me/iamnadhu)
+[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/instagram-icon.png">](https://www.instagram.com/iamnadhu/)
+[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=917293451396&lang=en)
+[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/facebook-icon.png">](https://www.facebook.com/iamnadhu/)
+[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/linkedin-icon.png">](https://www.linkedin.com/in/iamnadhu/)
+[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/telegram-icon.png">](https://t.me/iamnadhu)
 
 Show your support. 
 
 Please ⭐️  this repository if this section helped you!
 
-Created by [Nadhu](https://linktr.ee/iamnadhu)
-
-This is a small coding world for building your 'Android' Mobile Application.
 
 
 ## Tutorials
