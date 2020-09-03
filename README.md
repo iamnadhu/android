@@ -35,7 +35,7 @@ Learn: Linear Layout (Multiple Handling), EditText, Button Click (via "implement
 ```
 
 
-## Sessions
+## Projects
 ```
 01. 
 
