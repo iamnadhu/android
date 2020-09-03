@@ -17,7 +17,9 @@ This Section includes three categories:
 
 ## Tutorials
 
-01. My First App [source code](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/my-first-app)
+01. My First App
+
+[source code](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/my-first-app)
 
 ![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/my-first-app/01.jpg)
 ![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/my-first-app/02.jpg)
@@ -35,7 +37,9 @@ Things Learned:
 - 'setText' (purpose)
 ```
 
-02. Counter App [source code](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/counter-app)
+02. Counter App
+
+[source code](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/counter-app)
 
 ![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/counter-app/01.jpg)
 ![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/counter-app/02.jpg)
@@ -51,11 +55,13 @@ Things Learned:
 - 'String to Integer' Conversion
 - 'Integer to String' Conversion
 - 'Switch' statement
-- '++' & '--' Operators 
+- '++' & '--' Operators
 - 'getText' vs 'setText' (purpose)
 ```
 
-03. Login UI App [source code](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/login-ui-app)
+03. Login UI App
+
+[source code](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/login-ui-app)
 
 ![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/login-ui-app/01.jpg)
 ![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/login-ui-app/02.jpg)
@@ -70,7 +76,9 @@ Things Learned:
 - 'length' of a 'String' (purpose)
 ```
 
-04. 
+04. App
+
+[source code](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/login-ui-app)
 
 ![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/login-ui-app/01.jpg)
 ```
@@ -79,7 +87,9 @@ Components Used:
 Things Learned:
 ```
 
-05. 
+05. App
+
+[source code](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/login-ui-app)
 
 ![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/login-ui-app/01.jpg)
 ```
@@ -91,7 +101,9 @@ Things Learned:
 
 ## Sessions
 
-01. 
+01. App
+
+[source code](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/login-ui-app)
 
 ![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/login-ui-app/01.jpg)
 ```
@@ -100,7 +112,9 @@ Components Used:
 Things Learned:
 ```
 
-02. 
+02. App
+
+[source code](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/login-ui-app)
 
 ![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/login-ui-app/01.jpg)
 ```
@@ -109,7 +123,9 @@ Components Used:
 Things Learned:
 ```
 
-03. 
+03. App
+
+[source code](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/login-ui-app)
 
 ![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/login-ui-app/01.jpg)
 ```
@@ -118,7 +134,9 @@ Components Used:
 Things Learned:
 ```
 
-04. 
+04. App
+
+[source code](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/login-ui-app)
 
 ![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/login-ui-app/01.jpg)
 ```
@@ -127,7 +145,9 @@ Components Used:
 Things Learned:
 ```
 
-05. 
+05. App
+
+[source code](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/login-ui-app)
 
 ![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/login-ui-app/01.jpg)
 ```
@@ -140,15 +160,15 @@ Things Learned:
 ## Projects
 
 ```
-01. 
+01. App
 
-02. 
+02. App
 
-03. 
+03. App
 
-04. 
+04. App
 
-05. 
+05. App
 ```
 
 
