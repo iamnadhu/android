@@ -13,6 +13,8 @@ This Section includes three categories:
 3. Projects
       This section contains simple projects in daily life (eg: Chat Application, Shopping Cart, Restaurant App etc...) 
 ```
+
+
 ## Tutorials
 
 01. My First App
@@ -36,10 +38,11 @@ Components Used:
 - 'LinearLayout', 'TextView', 'Space', 'Button'
 
 Things Learned:
-- Integer Handling
-- Button Click (via "XML")
+- 'Int' Handling
+- Button Click (via 'XML')
 - 'String to Integer' Conversion
 - 'Integer to String' Conversion
+- 'Switch' statement
 - '++' & '--' Operators 
 - 'getText' vs 'setText' (purpose)
 ```
@@ -47,14 +50,19 @@ Things Learned:
 03. Login UI App
 ```
 Components Used:
-- EditText
+- 'LinearLayout', 'TextView', 'Space', 'EditText', 'Button'
 
 Things Learned:
-- Button Click (via "implements View.OnClickListener"), setVisibility, length
+- Button Click (via 'implements View.OnClickListener')
+- 'setVisibility' (purpose)
+- 'length' of a 'String' (purpose)
 ```
 
 04. 
 ```
+Components Used:
+
+Things Learned:
 ```
 
 05. 
@@ -64,16 +72,39 @@ Things Learned:
 
 ## Sessions
 
-```
 01. 
+```
+Components Used:
+
+Things Learned:
+```
 
 02. 
+```
+Components Used:
+
+Things Learned:
+```
 
 03. 
+```
+Components Used:
+
+Things Learned:
+```
 
 04. 
+```
+Components Used:
+
+Things Learned:
+```
 
 05. 
+```
+Components Used:
+
+Things Learned:
 ```
 
 
@@ -107,8 +138,8 @@ Follow me on:
 
 Show your support!
 
-Please ⭐️   this repository if this section helped you!
+Please ⭐️ this repository if this section helped you!
 
 
 ## 📝 License
-Copyright © 2020 nadhu014@gmail.com
+Copyright © 2020 [Nadhu](https://github.com/iamnadhu)
