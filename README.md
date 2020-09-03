@@ -36,6 +36,11 @@ Things Learned:
 ```
 
 02. Counter App
+
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/counter-app/01.jpg)
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/counter-app/02.jpg)
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/counter-app/03.jpg)
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/counter-app/04.jpg)
 ```
 Components Used:
 - 'LinearLayout', 'TextView', 'Space', 'Button'
@@ -51,6 +56,10 @@ Things Learned:
 ```
 
 03. Login UI App
+
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/login-ui-app/01.jpg)
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/login-ui-app/02.jpg)
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/login-ui-app/03.jpg)
 ```
 Components Used:
 - 'LinearLayout', 'TextView', 'Space', 'EditText', 'Button'
@@ -62,6 +71,8 @@ Things Learned:
 ```
 
 04. 
+
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/login-ui-app/01.jpg)
 ```
 Components Used:
 
@@ -69,6 +80,8 @@ Things Learned:
 ```
 
 05. 
+
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/login-ui-app/01.jpg)
 ```
 Components Used:
 
@@ -79,6 +92,8 @@ Things Learned:
 ## Sessions
 
 01. 
+
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/login-ui-app/01.jpg)
 ```
 Components Used:
 
@@ -86,6 +101,8 @@ Things Learned:
 ```
 
 02. 
+
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/login-ui-app/01.jpg)
 ```
 Components Used:
 
@@ -93,6 +110,8 @@ Things Learned:
 ```
 
 03. 
+
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/login-ui-app/01.jpg)
 ```
 Components Used:
 
@@ -100,6 +119,8 @@ Things Learned:
 ```
 
 04. 
+
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/login-ui-app/01.jpg)
 ```
 Components Used:
 
@@ -107,6 +128,8 @@ Things Learned:
 ```
 
 05. 
+
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/login-ui-app/01.jpg)
 ```
 Components Used:
 
@@ -144,7 +167,7 @@ Follow me on:
 
 Show your support!
 
-Please ⭐️ this repository if this section helped you!
+Please ⭐️   this repository if this section helped you!
 
 
 ## 📝 License
