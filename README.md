@@ -1,4 +1,22 @@
 # Android
+## Author 
+Created by [Nadhu](https://linktr.ee/iamnadhu)
+
+Follow me on:
+Instagram: [iamnadhu](https://www.instagram.com/iamnadhu/)
+
+WhatsApp: [iamnadhu](https://api.whatsapp.com/send?phone=917293451396&lang=en)
+
+Facebook: [iamnadhu](https://www.facebook.com/iamnadhu/)
+
+Linkedln: [iamnadhu](https://www.linkedin.com/in/iamnadhu/)
+
+Telegram: [iamnadhu](https://t.me/iamnadhu)
+
+Show your support. 
+
+Please ⭐️  this repository if this section helped you!
+
 Created by [Nadhu](https://linktr.ee/iamnadhu)
 
 This is a small coding world for building your 'Android' Mobile Application.
@@ -82,23 +100,6 @@ Things Learned:
 05. 
 ```
 
-## Author 👤 [Nadhu](https://linktr.ee/iamnadhu)
-
->Instagram: [iamnadhu](https://www.instagram.com/iamnadhu/)
->
->WhatsApp: [iamnadhu](https://api.whatsapp.com/send?phone=917293451396&lang=en)
->
->Facebook: [iamnadhu](https://www.facebook.com/iamnadhu/)
->
->Linkedln: [iamnadhu](https://www.linkedin.com/in/iamnadhu/)
->
->Telegram: [iamnadhu](https://t.me/iamnadhu)
->
->Show your support. 
->
->Please ⭐️  this repository if this section helped you!
-
 
 ## 📝 License
-
->Copyright © 2020 nadhu014@gmail.com.
+Copyright © 2020 nadhu014@gmail.com.
