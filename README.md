@@ -18,6 +18,9 @@ This Section includes three categories:
 ## Tutorials
 
 01. My First App
+
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/my-first-app/01.jpg)
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/my-first-app/02.jpg)
 ```
 Components Used:
 - 'LinearLayout', 'TextView', 'Button'
