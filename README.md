@@ -67,6 +67,9 @@ Things Learned:
 
 05. 
 ```
+Components Used:
+
+Things Learned:
 ```
 
 
@@ -126,15 +129,15 @@ Things Learned:
 ## Author 
 Created by [Nadhu](https://github.com/iamnadhu)
 
-[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/nadhu.jpg">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/nadhu.jpg">](https://github.com/iamnadhu)
 
 Follow me on: 
 
-[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/instagram-icon.png">](https://www.instagram.com/iamnadhu/)
-[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=917293451396&lang=en)
-[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/facebook-icon.png">](https://www.facebook.com/iamnadhu/)
-[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/linkedin-icon.png">](https://www.linkedin.com/in/iamnadhu/)
-[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/telegram-icon.png">](https://t.me/iamnadhu)
+[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/instagram-icon.png">](https://www.instagram.com/iamnadhu/)
+[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=917293451396&lang=en)
+[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/facebook-icon.png">](https://www.facebook.com/iamnadhu/)
+[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/linkedin-icon.png">](https://www.linkedin.com/in/iamnadhu/)
+[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/telegram-icon.png">](https://t.me/iamnadhu)
 
 Show your support!
 
