@@ -1,27 +1,60 @@
 # Android
+Created by [Nadhu](https://linktr.ee/iamnadhu)
 
-This is a small "Android" world for coding.
+This is a small coding world for building your 'Android' Mobile Application.
 
 
 ## Tutorials
 
-```
 01. My First App
-Learn: Linear Layout, TextView, Button, String, findViewById, Button Click (via "simple setOnClickListener"), System.out.println, Log.d, setText
+```
+Components Used:
+- 'LinearLayout', 'TextView', 'Button'
+
+Things Learned:
+- Activity Life Cycle('onCreate', 'onStart', 'onResume', 'onPause', 'onStop', 'onRestart', 'onDestroy')
+- 'String' Handling
+- 'findViewById' (purpose)
+- Button Click (via simple 'setOnClickListener')
+- 'Log.d' (purpose)
+- 'System.out.println' (purpose)
+- 'setText' (purpose)
+```
 
 02. Counter App
-Learn: Int, Button Click (via "XML"), String to Integer, Integer to String, "++" and "--" Operators, getText, setText
+```
+Components Used:
+- LinearLayout, TextView, Space, Button
+
+Things Learned:
+- Integer Handling
+- Button Click (via "XML")
+- 'String to Integer' Conversion
+- 'Integer to String' Conversion
+- '++' & '--' Operators 
+- 'getText' vs 'setText' (purpose)
+```
 
 03. Login UI App
-Learn: Linear Layout (Multiple Handling), EditText, Button Click (via "implements View.OnClickListener"), setVisibility, length
+```
+Components Used:
+- EditText
+
+Things Learned:
+- Button Click (via "implements View.OnClickListener"), setVisibility, length
+```
 
 04. 
+```
+```
 
 05. 
+```
 ```
 
 
 ## Sessions
+
 ```
 01. 
 
@@ -36,6 +69,7 @@ Learn: Linear Layout (Multiple Handling), EditText, Button Click (via "implement
 
 
 ## Projects
+
 ```
 01. 
 
@@ -47,3 +81,24 @@ Learn: Linear Layout (Multiple Handling), EditText, Button Click (via "implement
 
 05. 
 ```
+
+## Author 👤 [Nadhu](https://linktr.ee/iamnadhu)
+
+>Instagram: [iamnadhu](https://www.instagram.com/iamnadhu/)
+>
+>WhatsApp: [iamnadhu](https://api.whatsapp.com/send?phone=917293451396&lang=en)
+>
+>Facebook: [iamnadhu](https://www.facebook.com/iamnadhu/)
+>
+>Linkedln: [iamnadhu](https://www.linkedin.com/in/iamnadhu/)
+>
+>Telegram: [iamnadhu](https://t.me/iamnadhu)
+>
+>Show your support. 
+>
+>Please ⭐️  this repository if this section helped you!
+
+
+## 📝 License
+
+>Copyright © 2020 nadhu014@gmail.com.
