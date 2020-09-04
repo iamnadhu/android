@@ -1,17 +1,16 @@
-# Tutorials
+# Android: Tutorials[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/android-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 Created by [Nadhu](https://github.com/iamnadhu)
 
 ## My First App
-
-[source code](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/my-first-app)
-
+### Screenshots
 ![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/my-first-app/01.jpg)
 ![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/my-first-app/02.jpg)
+### Components Used:
 ```
-Components Used:
 - 'LinearLayout', 'TextView', 'Button'
-
-Things Learned:
+```
+### Things Learned:
+```
 - Activity Life Cycle('onCreate', 'onStart', 'onResume', 'onPause', 'onStop', 'onRestart', 'onDestroy')
 - 'String' Handling
 - 'findViewById' (purpose)
@@ -21,7 +20,8 @@ Things Learned:
 - 'setText' (purpose)
 ```
 
-## Author 
+
+## Author [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/auther-icon.png">](https://github.com/iamnadhu)
 Created by [Nadhu](https://github.com/iamnadhu)
 
 [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/nadhu.jpg">](https://github.com/iamnadhu)
@@ -39,5 +39,5 @@ Show your support!
 Please ⭐️   this repository if this section helped you!
 
 
-## 📝 License
+## License [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/license-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 Copyright © 2020 [Nadhu](https://github.com/iamnadhu)
