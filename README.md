@@ -23,35 +23,35 @@ This Section includes three categories:
 >
 > 03. Login UI App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/Login%20UI%20App))
 >
-> 04. App ([link](https://github.com/iamnadhu/nadhu014-android))
+> 04. App
 >
-> 05. App ([link](https://github.com/iamnadhu/nadhu014-android))
+> 05. App
 
 
 ## Sessions [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/sessions-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 
 > 01. Touch App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/sessions/Touch%20App))
 >
-> 02. Swipe App ([link](https://github.com/iamnadhu/nadhu014-android))
+> 02. Swipe App
 >
-> 03. App ([link](https://github.com/iamnadhu/nadhu014-android))
+> 03. App
 >
-> 04. App ([link](https://github.com/iamnadhu/nadhu014-android))
+> 04. App
 >
-> 05. App ([link](https://github.com/iamnadhu/nadhu014-android))
+> 05. App
 
 
 ## Projects [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/projects-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 
-> 01. Restaurant App ([link](https://github.com/iamnadhu/nadhu014-android))
+> 01. Restaurant App
 >
-> 02. Chat App ([link](https://github.com/iamnadhu/nadhu014-android))
+> 02. Chat App
 >
-> 03. Shopping App ([link](https://github.com/iamnadhu/nadhu014-android))
+> 03. Shopping App
 >
-> 04. App ([link](https://github.com/iamnadhu/nadhu014-android))
+> 04. App
 >
-> 05. App ([link](https://github.com/iamnadhu/nadhu014-android))
+> 05. App
 
 
 ## Author [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/auther-icon.png">](https://github.com/iamnadhu)
