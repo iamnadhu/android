@@ -15,8 +15,9 @@ Created by [Nadhu](https://github.com/iamnadhu)
 - 'String' Handling
 - 'findViewById' (purpose)
 - Button Click (via simple 'setOnClickListener')
-- 'Log.d' (purpose)
 - Purpose of 'System.out.println'
+- Purpose of 'Log.d'
+- Purpose of 'Toast'
 - Purpose of 'setText'
 ```
 
