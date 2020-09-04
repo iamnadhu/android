@@ -3,10 +3,9 @@ Created by [Nadhu](https://github.com/iamnadhu)
 
 ## Login UI App
 ### Screenshots
-![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/counter-app/01.jpg)
-![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/counter-app/02.jpg)
-![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/counter-app/03.jpg)
-![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/counter-app/04.jpg)
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/login-ui-app/01.jpg)
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/login-ui-app/02.jpg)
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/login-ui-app/03.jpg)
 ### Components Used:
 ```
 - 'LinearLayout', 'TextView', 'Space', 'EditText', 'Button'
