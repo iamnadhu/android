@@ -1,21 +1,21 @@
 # Android: Tutorials [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/android-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 Created by [Nadhu](https://github.com/iamnadhu)
 
-## Touch App
+## Swipe App
 ### Screenshots
-![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/sessions/Touch%20App/screenshots/01.png)
-![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/sessions/Touch%20App/screenshots/02.png)
-![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/sessions/Touch%20App/screenshots/03.png)
-![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/sessions/Touch%20App/screenshots/04.png)
-![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/sessions/Touch%20App/screenshots/05.png)
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/sessions/Swipe%20App/screenshots/01.jpg)
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/sessions/Swipe%20App/screenshots/02.jpg)
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/sessions/Swipe%20App/screenshots/03.jpg)
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/sessions/Swipe%20App/screenshots/04.jpg)
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/sessions/Swipe%20App/screenshots/05.jpg)
 ### Components Used:
 ```
 - 'LinearLayout', 'TextView'
 ```
 ### Things Learned:
 ```
-- Working with 'implements GestureDetector.OnGestureListener, GestureDetector.OnDoubleTapListener'
-- Purpose of 'onSingleTapUp', 'onDoubleTap', 'onLongPress', 'onScroll', 'onTouchEvent', 'onDown', 'onFling', 'onShowPress', 'onDoubleTapEvent', 'onSingleTapConfirmed'
+- Working with 'implements View.OnTouchListener'
+- Implements Swipe gesture in all 4 directions (Top, Bottom, Left, Right)
 ```
 
 
