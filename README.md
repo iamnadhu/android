@@ -72,5 +72,5 @@ Show your support!
 Please ⭐️   this repository if this section helped you!
 
 
-## License <img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/license-icon.png">
+## License [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/license-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 Copyright © 2020 [Nadhu](https://github.com/iamnadhu)
