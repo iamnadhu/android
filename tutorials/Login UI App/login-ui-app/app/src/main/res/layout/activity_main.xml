@@ -37,6 +37,12 @@
             android:layout_height="wrap_content"
             android:hint="Email / Phone Number" />
 
+        <TextView
+            android:id="@+id/tv_user_name_check"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="*** This field is mandatory" />
+
         <Space
             android:layout_width="match_parent"
             android:layout_height="20dp" />

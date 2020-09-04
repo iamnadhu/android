@@ -8,13 +8,14 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     private static final String TAG = "MainActivity";
 
     EditText etUserName, etPassword;
-    TextView tvPasswordCheck, tvYourName, tvYourPassword;
+    TextView tvUserNameCheck, tvPasswordCheck, tvYourName, tvYourPassword;
     Button btnClear, btnSubmit;
     String userName, password;
 
@@ -25,12 +26,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         etUserName = findViewById(R.id.et_user_name);
         etPassword = findViewById(R.id.et_password);
+        tvUserNameCheck = findViewById(R.id.tv_user_name_check);
         tvPasswordCheck = findViewById(R.id.tv_password_check);
         tvYourName = findViewById(R.id.tv_your_name);
         tvYourPassword = findViewById(R.id.tv_your_password);
         btnClear = findViewById(R.id.btn_clear);
         btnSubmit = findViewById(R.id.btn_submit);
 
+        tvUserNameCheck.setVisibility(View.INVISIBLE);
         tvPasswordCheck.setVisibility(View.INVISIBLE);
 
         btnClear.setOnClickListener(this);
@@ -45,14 +48,16 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 clear();
                 break;
             case R.id.btn_submit:
-                if (etPassword.length() >= 4) {
-                    submit();
+                if (etUserName.length() == 0) {
+                    tvUserNameCheck.setVisibility(View.VISIBLE);
                     tvPasswordCheck.setVisibility(View.INVISIBLE);
-                } else {
-                    tvYourName.setText("");
-                    tvYourPassword.setText("");
-
+                } else if (etPassword.length() <= 3) {
                     tvPasswordCheck.setVisibility(View.VISIBLE);
+                    tvUserNameCheck.setVisibility(View.INVISIBLE);
+                } else {
+                    submit();
+                    tvUserNameCheck.setVisibility(View.INVISIBLE);
+                    tvPasswordCheck.setVisibility(View.INVISIBLE);
                 }
                 break;
         }
@@ -64,6 +69,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         tvYourName.setText("");
         tvYourPassword.setText("");
         Log.d(TAG, "onClick: Clear Button Clicked!!!");
+        Toast.makeText(this, "Clear!", Toast.LENGTH_SHORT).show();
     }
 
     private void submit() {
@@ -72,5 +78,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Log.d(TAG, "onClick: Submit Button Clicked!!! " + "User Name: " + userName + "Password: " + password);
         tvYourName.setText(userName);
         tvYourPassword.setText(password);
+        Toast.makeText(this, "Success!", Toast.LENGTH_SHORT).show();
     }
 }
