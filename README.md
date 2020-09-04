@@ -30,9 +30,9 @@ This Section includes three categories:
 
 ## Sessions [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/sessions-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 
-> 01. App ([link](https://github.com/iamnadhu/nadhu014-android))
+> 01. Touch App ([link](https://github.com/iamnadhu/nadhu014-android))
 >
-> 02. App ([link](https://github.com/iamnadhu/nadhu014-android))
+> 02. Swipe App ([link](https://github.com/iamnadhu/nadhu014-android))
 >
 > 03. App ([link](https://github.com/iamnadhu/nadhu014-android))
 >
@@ -43,11 +43,11 @@ This Section includes three categories:
 
 ## Projects [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/projects-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 
-> 01. App ([link](https://github.com/iamnadhu/nadhu014-android))
+> 01. Restaurant App ([link](https://github.com/iamnadhu/nadhu014-android))
 >
-> 02. App ([link](https://github.com/iamnadhu/nadhu014-android))
+> 02. Chat App ([link](https://github.com/iamnadhu/nadhu014-android))
 >
-> 03. App ([link](https://github.com/iamnadhu/nadhu014-android))
+> 03. Shopping App ([link](https://github.com/iamnadhu/nadhu014-android))
 >
 > 04. App ([link](https://github.com/iamnadhu/nadhu014-android))
 >
