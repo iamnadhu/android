@@ -15,13 +15,17 @@ Created by [Nadhu](https://github.com/iamnadhu)
 ```
 ### Things Learned:
 ```
-- Activity Life Cycle('onCreate', 'onStart', 'onResume', 'onPause', 'onStop', 'onRestart', 'onDestroy')
+- Android Studio Overview (Project (manifest, java, res (drawable, layout, mipmap, values), Gradle Scripts (Adding Libraries/Dependecies)), Resource Manager etc...)
+- Import Libraries
+- Variables Initialisation
 - 'String' Handling
+- Activity Life Cycle('onCreate', 'onStart', 'onResume', 'onPause', 'onStop', 'onRestart', 'onDestroy')
+- Purpose of 'setContentView'
 - Purpose of 'findViewById'
 - Button Click (via simple 'setOnClickListener')
-- Purpose of 'System.out.println'
-- Purpose of 'Log.d'
-- Purpose of 'Toast'
+- Purpose of 'System.out.println("Clicked...");'
+- Purpose of 'Log.d(TAG, "onClick: Clicked...");'
+- Purpose of 'Toast.makeText(MainActivity.this, "Clicked!", Toast.LENGTH_SHORT).show();'
 - Purpose of 'setText'
 ```
 
