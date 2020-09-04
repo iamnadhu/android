@@ -1,58 +1,25 @@
-# Android <img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/android-icon.png">
+# Tutorials
 Created by [Nadhu](https://github.com/iamnadhu)
 
-This is a small coding world for building your 'Android' Mobile Applications.
+## My First App
 
+[source code](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/my-first-app)
 
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/my-first-app/01.jpg)
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/my-first-app/02.jpg)
 ```
-This Section includes three categories:
-1. Tutorials
-      It's mainly about basic android (eg: Components, Button Click, Activity, Fragment etc...)
-2. Sessions
-      It's focussed on advanced android (eg: Tap Gesture, Firebase Auth, Push Notifications etc...)
-3. Projects
-      This section contains simple projects in daily life (eg: Chat Application, Shopping Cart, Restaurant App etc...) 
+Components Used:
+- 'LinearLayout', 'TextView', 'Button'
+
+Things Learned:
+- Activity Life Cycle('onCreate', 'onStart', 'onResume', 'onPause', 'onStop', 'onRestart', 'onDestroy')
+- 'String' Handling
+- 'findViewById' (purpose)
+- Button Click (via simple 'setOnClickListener')
+- 'Log.d' (purpose)
+- 'System.out.println' (purpose)
+- 'setText' (purpose)
 ```
-
-
-## Tutorials
-
-> 01. My First App
->
-> 02. Counter App
->
-> 03. Login UI App
->
-> 04. App
->
-> 05. App
-
-
-## Sessions
-
-> 01. App
->
-> 02. App
->
-> 03. App
->
-> 04. App
->
-> 05. App
-
-
-## Projects
-
-> 01. App
->
-> 02. App
->
-> 03. App
->
-> 04. App
->
-> 05. App
-
 
 ## Author 
 Created by [Nadhu](https://github.com/iamnadhu)
