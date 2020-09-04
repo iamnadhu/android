@@ -7,6 +7,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -36,19 +37,23 @@ public class MainActivity extends AppCompatActivity {
                 counter--;
                 tvCount.setText(String.valueOf(counter));
                 Log.d(TAG, "btnClickAction: Minus Button Pressed!" + counter);
+                Toast.makeText(this, "Minus Tapped!", Toast.LENGTH_SHORT).show();
                 break;
             case R.id.btn_plus:
                 counter = Integer.parseInt(String.valueOf(tvCount.getText()));
                 counter++;
                 tvCount.setText(String.valueOf(counter));
                 Log.d(TAG, "btnClickAction: Plus Button Pressed!" + counter);
+                Toast.makeText(this, "Plus Tapped!", Toast.LENGTH_SHORT).show();
                 break;
             case R.id.btn_reset:
                 tvCount.setText("0");
                 Log.d(TAG, "btnClickAction: Reset Button Pressed!");
+                Toast.makeText(this, "Reset Tapped!", Toast.LENGTH_SHORT).show();
                 break;
             default:
                 Log.d(TAG, "btnClickAction: Default Case!");
+                Toast.makeText(this, "Default Tapped!", Toast.LENGTH_SHORT).show();
         }
     }
 }
