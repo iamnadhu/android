@@ -16,6 +16,7 @@ Created by [Nadhu](https://github.com/iamnadhu)
 - Purpose of 'setVisibility'
 - Purpose of 'length' of a 'String'
 - Purpose of 'getText' vs 'setText'
+- Simple Validation in Android
 ```
 
 
