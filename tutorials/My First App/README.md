@@ -1,4 +1,4 @@
-# Android: Tutorials[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/android-icon.png">](https://github.com/iamnadhu/nadhu014-android)
+# Android: Tutorials [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/android-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 Created by [Nadhu](https://github.com/iamnadhu)
 
 ## My First App
@@ -16,8 +16,8 @@ Created by [Nadhu](https://github.com/iamnadhu)
 - 'findViewById' (purpose)
 - Button Click (via simple 'setOnClickListener')
 - 'Log.d' (purpose)
-- 'System.out.println' (purpose)
-- 'setText' (purpose)
+- Purpose of 'System.out.println'
+- Purpose of 'setText'
 ```
 
 
