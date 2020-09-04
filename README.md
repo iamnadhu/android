@@ -23,38 +23,38 @@ This Section includes three categories:
 >
 > 03. Login UI App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/Login%20UI%20App))
 >
-> 04. App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/My%20First%20App))
+> 04. App ([link](https://github.com/iamnadhu/nadhu014-android))
 >
-> 05. App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/My%20First%20App))
+> 05. App ([link](https://github.com/iamnadhu/nadhu014-android))
 
 
 ## Sessions [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/sessions-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 
-> 01. App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/My%20First%20App))
+> 01. App ([link](https://github.com/iamnadhu/nadhu014-android))
 >
-> 02. App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/My%20First%20App))
+> 02. App ([link](https://github.com/iamnadhu/nadhu014-android))
 >
-> 03. App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/My%20First%20App))
+> 03. App ([link](https://github.com/iamnadhu/nadhu014-android))
 >
-> 04. App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/My%20First%20App))
+> 04. App ([link](https://github.com/iamnadhu/nadhu014-android))
 >
-> 05. App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/My%20First%20App))
+> 05. App ([link](https://github.com/iamnadhu/nadhu014-android))
 
 
 ## Projects [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/projects-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 
-> 01. App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/My%20First%20App))
+> 01. App ([link](https://github.com/iamnadhu/nadhu014-android))
 >
-> 02. App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/My%20First%20App))
+> 02. App ([link](https://github.com/iamnadhu/nadhu014-android))
 >
-> 03. App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/My%20First%20App))
+> 03. App ([link](https://github.com/iamnadhu/nadhu014-android))
 >
-> 04. App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/My%20First%20App))
+> 04. App ([link](https://github.com/iamnadhu/nadhu014-android))
 >
-> 05. App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/My%20First%20App))
+> 05. App ([link](https://github.com/iamnadhu/nadhu014-android))
 
 
-## Author <img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/auther-icon.png">
+## Author [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/auther-icon.png">](https://github.com/iamnadhu)
 Created by [Nadhu](https://github.com/iamnadhu)
 
 [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/nadhu.jpg">](https://github.com/iamnadhu)
