@@ -57,7 +57,7 @@ This Section includes three categories:
 ## Author [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/auther-icon.png">](https://github.com/iamnadhu)
 Created by [Nadhu](https://github.com/iamnadhu)
 
-[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/nadhu.jpg">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/nadhu-pic.jpg">](https://github.com/iamnadhu)
 
 Follow me on: 
 
