@@ -13,7 +13,7 @@ Created by [Nadhu](https://github.com/iamnadhu)
 ```
 - Activity Life Cycle('onCreate', 'onStart', 'onResume', 'onPause', 'onStop', 'onRestart', 'onDestroy')
 - 'String' Handling
-- 'findViewById' (purpose)
+- Purpose of 'findViewById'
 - Button Click (via simple 'setOnClickListener')
 - Purpose of 'System.out.println'
 - Purpose of 'Log.d'
