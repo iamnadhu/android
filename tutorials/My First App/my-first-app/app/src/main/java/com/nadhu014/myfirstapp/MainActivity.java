@@ -5,6 +5,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -26,8 +27,9 @@ public class MainActivity extends AppCompatActivity {
         btnReset.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Log.d(TAG, "onClick: Reset Button Clicked...");
                 System.out.println("Reset Button Clicked...");
+                Log.d(TAG, "onClick: Reset Button Clicked...");
+                Toast.makeText(MainActivity.this, "Reset Button Clicked!", Toast.LENGTH_SHORT).show();
                 tvHeading.setText("My First App!");
             }
         });
@@ -35,8 +37,9 @@ public class MainActivity extends AppCompatActivity {
         btnSubmit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Log.d(TAG, "onClick: Submit Button Clicked...");
                 System.out.println("Reset Button Clicked...");
+                Log.d(TAG, "onClick: Submit Button Clicked...");
+                Toast.makeText(MainActivity.this, "Submit Button Clicked!", Toast.LENGTH_SHORT).show();
                 tvHeading.setText("Welcome to Android.");
             }
         });
