@@ -30,7 +30,7 @@ This Section includes three categories:
 
 ## Sessions [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/sessions-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 
-> 01. Touch App ([link](https://github.com/iamnadhu/nadhu014-android))
+> 01. Touch App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/sessions/Touch%20App))
 >
 > 02. Swipe App ([link](https://github.com/iamnadhu/nadhu014-android))
 >
