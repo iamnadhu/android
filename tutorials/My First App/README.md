@@ -5,6 +5,8 @@ Created by [Nadhu](https://github.com/iamnadhu)
 ### Screenshots
 ![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/my-first-app/01.jpg)
 ![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/my-first-app/02.jpg)
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/my-first-app/03.jpg)
+![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/my-first-app/04.jpg)
 ### Components Used:
 ```
 - 'LinearLayout', 'TextView', 'Button'
