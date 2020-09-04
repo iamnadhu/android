@@ -19,9 +19,9 @@ This Section includes three categories:
 
 > 01. My First App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/My%20First%20App))
 >
-> 02. Counter App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/My%20First%20App))
+> 02. Counter App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/Counter%20App))
 >
-> 03. Login UI App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/My%20First%20App))
+> 03. Login UI App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/Login%20UI%20App))
 >
 > 04. App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/My%20First%20App))
 >
