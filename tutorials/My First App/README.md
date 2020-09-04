@@ -3,8 +3,10 @@ Created by [Nadhu](https://github.com/iamnadhu)
 
 ## My First App
 ### Screenshots
+#### Light Mode
 ![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/my-first-app/01.jpg)
 ![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/my-first-app/02.jpg)
+#### Dark Mode
 ![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/my-first-app/03.jpg)
 ![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/my-first-app/04.jpg)
 ### Components Used:
