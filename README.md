@@ -1,4 +1,4 @@
-# Android [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/android-icon.png">](https://github.com/iamnadhu)
+# Android [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/android-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 Created by [Nadhu](https://github.com/iamnadhu)
 
 This is a small coding world for building your own 'Android' Mobile Applications.
@@ -15,7 +15,7 @@ This Section includes three categories:
 ```
 
 
-## Tutorials [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/tutorials-icon.png">](https://github.com/iamnadhu)
+## Tutorials [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/tutorials-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 
 > 01. My First App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/My%20First%20App))
 >
@@ -28,7 +28,7 @@ This Section includes three categories:
 > 05. App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/My%20First%20App))
 
 
-## Sessions [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/sessions-icon.png">](https://github.com/iamnadhu)
+## Sessions [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/sessions-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 
 > 01. App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/My%20First%20App))
 >
@@ -41,7 +41,7 @@ This Section includes three categories:
 > 05. App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/My%20First%20App))
 
 
-## Projects [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/projects-icon.png">](https://github.com/iamnadhu)
+## Projects [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/projects-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 
 > 01. App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/My%20First%20App))
 >
