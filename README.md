@@ -1,7 +1,7 @@
 # Android <img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/android-icon.png">
 Created by [Nadhu](https://github.com/iamnadhu)
 
-This is a small coding world for building your 'Android' Mobile Applications.
+This is a small coding world for building your own 'Android' Mobile Applications.
 
 
 ```
@@ -15,7 +15,7 @@ This Section includes three categories:
 ```
 
 
-## Tutorials
+## Tutorials <img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/tutorials-icon.png">
 
 > 01. My First App
 >
@@ -28,7 +28,7 @@ This Section includes three categories:
 > 05. App
 
 
-## Sessions
+## Sessions <img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/sessions-icon.png">
 
 > 01. App
 >
@@ -41,7 +41,7 @@ This Section includes three categories:
 > 05. App
 
 
-## Projects
+## Projects <img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/projects-icon.png">
 
 > 01. App
 >
@@ -54,7 +54,7 @@ This Section includes three categories:
 > 05. App
 
 
-## Author 
+## Author <img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/auther-icon.png">
 Created by [Nadhu](https://github.com/iamnadhu)
 
 [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/nadhu.jpg">](https://github.com/iamnadhu)
@@ -72,5 +72,5 @@ Show your support!
 Please ⭐️   this repository if this section helped you!
 
 
-## 📝 License
+## License <img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/private/license-icon.png">
 Copyright © 2020 [Nadhu](https://github.com/iamnadhu)
