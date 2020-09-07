@@ -1,4 +1,4 @@
-# Android: Tutorials [<img src="https://github.com/iamnadhu/n14-icons/blob/master/android-icon.png">](https://github.com/iamnadhu/n14-android/tree/master/sessions/Swipe%20App)
+# Android: Sessions [<img src="https://github.com/iamnadhu/n14-icons/blob/master/android-icon.png">](https://github.com/iamnadhu/n14-android/tree/master/sessions/Swipe%20App)
 Created by [Nadhu](https://github.com/iamnadhu)
 
 
