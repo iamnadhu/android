@@ -4,10 +4,10 @@ Created by [Nadhu](https://github.com/iamnadhu)
 
 ## Counter App
 ### Screenshots
-![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/tutorials/Counter%20App/screenshots/01.jpg)
-![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/tutorials/Counter%20App/screenshots/02.jpg)
-![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/tutorials/Counter%20App/screenshots/03.jpg)
-![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/tutorials/Counter%20App/screenshots/04.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/tutorials/Counter%20App/screenshots/01.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/tutorials/Counter%20App/screenshots/02.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/tutorials/Counter%20App/screenshots/03.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/tutorials/Counter%20App/screenshots/04.jpg)
 ### Components Used:
 ```
 - 'LinearLayout', 'TextView', 'Space', 'Button'
