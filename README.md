@@ -1,4 +1,4 @@
-# Android [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/android-icon.png">](https://github.com/iamnadhu/nadhu014-android)
+# Android [<img src="https://github.com/iamnadhu/n14-icons/blob/master/android-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 Created by [Nadhu](https://github.com/iamnadhu)
 
 This is a small coding world for building your own 'Android' Mobile Applications using 'Java / Kotlin' Language and 'Android Studio' IDE.
@@ -14,7 +14,7 @@ This Section includes three categories:
 ```
 
 
-## Tutorials [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/tutorials-icon.png">](https://github.com/iamnadhu/nadhu014-android)
+## Tutorials [<img src="https://github.com/iamnadhu/n14-icons/blob/master/tutorials-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 
 > 01. My First App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/My%20First%20App))
 >
@@ -27,7 +27,7 @@ This Section includes three categories:
 > 05. App
 
 
-## Sessions [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/sessions-icon.png">](https://github.com/iamnadhu/nadhu014-android)
+## Sessions [<img src="https://github.com/iamnadhu/n14-icons/blob/master/sessions-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 
 > 01. Touch App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/sessions/Touch%20App))
 >
@@ -40,7 +40,7 @@ This Section includes three categories:
 > 05. App
 
 
-## Projects [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/projects-icon.png">](https://github.com/iamnadhu/nadhu014-android)
+## Projects [<img src="https://github.com/iamnadhu/n14-icons/blob/master/projects-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 
 > 01. Restaurant App [IN PROGRESS] ([link](https://github.com/iamnadhu/n14-android/tree/master/projects/Restaurant%20App))
 >
@@ -53,23 +53,23 @@ This Section includes three categories:
 > 05. App
 
 
-## Author [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/auther-icon.png">](https://github.com/iamnadhu)
+## Author [<img src="https://github.com/iamnadhu/n14-icons/blob/master/auther-icon.png">](https://github.com/iamnadhu)
 Created by [Nadhu](https://github.com/iamnadhu)
 
-[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/nadhu-pic.jpg">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/n14-icons/blob/master/nadhu-pic.jpg">](https://github.com/iamnadhu)
 
 Follow me on: 
 
-[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/instagram-icon.png">](https://www.instagram.com/iamnadhu/)
-[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=917293451396&lang=en)
-[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/facebook-icon.png">](https://www.facebook.com/iamnadhu/)
-[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/linkedin-icon.png">](https://www.linkedin.com/in/iamnadhu/)
-[<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/telegram-icon.png">](https://t.me/iamnadhu)
+[<img src="https://github.com/iamnadhu/n14-icons/blob/master/instagram-icon.png">](https://www.instagram.com/iamnadhu/)
+[<img src="https://github.com/iamnadhu/n14-icons/blob/master/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=917293451396&lang=en)
+[<img src="https://github.com/iamnadhu/n14-icons/blob/master/facebook-icon.png">](https://www.facebook.com/iamnadhu/)
+[<img src="https://github.com/iamnadhu/n14-icons/blob/master/linkedin-icon.png">](https://www.linkedin.com/in/iamnadhu/)
+[<img src="https://github.com/iamnadhu/n14-icons/blob/master/telegram-icon.png">](https://t.me/iamnadhu)
 
 Show your support!
 
 Please ⭐️   this repository if this section helped you!
 
 
-## License [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/license-icon.png">](https://github.com/iamnadhu/nadhu014-android)
+## License [<img src="https://github.com/iamnadhu/n14-icons/blob/master/license-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 Copyright © 2020 [Nadhu](https://github.com/iamnadhu)
