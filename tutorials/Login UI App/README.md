@@ -4,12 +4,12 @@ Created by [Nadhu](https://github.com/iamnadhu)
 
 ## Login UI App
 ### Screenshots
-![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/tutorials/Login%20UI%20App/screenshots/01.jpg)
-![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/tutorials/Login%20UI%20App/screenshots/02.jpg)
-![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/tutorials/Login%20UI%20App/screenshots/03.jpg)
-![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/tutorials/Login%20UI%20App/screenshots/04.jpg)
-![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/tutorials/Login%20UI%20App/screenshots/05.jpg)
-![screenshot](https://github.com/iamnadhu/nadhu014-android/blob/master/tutorials/Login%20UI%20App/screenshots/06.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/tutorials/Login%20UI%20App/screenshots/01.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/tutorials/Login%20UI%20App/screenshots/02.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/tutorials/Login%20UI%20App/screenshots/03.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/tutorials/Login%20UI%20App/screenshots/04.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/tutorials/Login%20UI%20App/screenshots/05.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/tutorials/Login%20UI%20App/screenshots/06.jpg)
 ### Components Used:
 ```
 - 'LinearLayout', 'TextView', 'Space', 'EditText', 'Button'
