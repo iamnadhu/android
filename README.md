@@ -43,11 +43,11 @@ This Section includes three categories:
 
 ## Projects [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/projects-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 
-> 01. Restaurant App [IN PROGRESS] ([link](https://github.com/iamnadhu/n14-android/tree/master/projects/Restaurant%20App/restaurant-app))
+> 01. Restaurant App [IN PROGRESS] ([link](https://github.com/iamnadhu/n14-android/tree/master/projects/Restaurant%20App))
 >
-> 02. Chat App [IN PROGRESS] ([link](https://github.com/iamnadhu/n14-android/tree/master/projects/Chat%20App/chat-app))
+> 02. Chat App [IN PROGRESS] ([link](https://github.com/iamnadhu/n14-android/tree/master/projects/Chat%20App))
 >
-> 03. Shopping App [IN PROGRESS] ([link](https://github.com/iamnadhu/n14-android/tree/master/projects/Shopping%20App/shopping-app))
+> 03. Shopping App [IN PROGRESS] ([link](https://github.com/iamnadhu/n14-android/tree/master/projects/Shopping%20App))
 >
 > 04. App
 >
