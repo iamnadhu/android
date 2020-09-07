@@ -49,5 +49,5 @@ Show your support!
 Please ⭐️   this repository if this section helped you!
 
 
-## License [<img src="https://github.com/iamnadhu/n14-icons/blob/master/license-icon.png">](https://github.com/iamnadhu/nadhu014-android)
+## License [<img src="https://github.com/iamnadhu/n14-icons/blob/master/license-icon.png">](https://github.com/iamnadhu/n14-android/tree/master/tutorials/My%20First%20App)
 Copyright © 2020 [Nadhu](https://github.com/iamnadhu)
