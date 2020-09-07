@@ -1,7 +1,7 @@
 # Android [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/android-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 Created by [Nadhu](https://github.com/iamnadhu)
 
-This is a small coding world for building your own 'Android' Mobile Applications using 'Java / Kotlin' Language and 'Android Studio' IDE
+This is a small coding world for building your own 'Android' Mobile Applications using 'Java / Kotlin' Language and 'Android Studio' IDE.
 
 ```
 This Section includes three categories:
