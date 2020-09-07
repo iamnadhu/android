@@ -1,4 +1,4 @@
-# Android [<img src="https://github.com/iamnadhu/n14-icons/blob/master/android-icon.png">](https://github.com/iamnadhu/nadhu014-android)
+# Android [<img src="https://github.com/iamnadhu/n14-icons/blob/master/android-icon.png">](https://github.com/iamnadhu/n14-android)
 Created by [Nadhu](https://github.com/iamnadhu)
 
 This is a small coding world for building your own 'Android' Mobile Applications using 'Java / Kotlin' Language and 'Android Studio' IDE.
@@ -14,22 +14,22 @@ This Section includes three categories:
 ```
 
 
-## Tutorials [<img src="https://github.com/iamnadhu/n14-icons/blob/master/tutorials-icon.png">](https://github.com/iamnadhu/nadhu014-android)
+## Tutorials [<img src="https://github.com/iamnadhu/n14-icons/blob/master/tutorials-icon.png">](https://github.com/iamnadhu/n14-android)
 
-> 01. My First App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/My%20First%20App))
+> 01. My First App ([link](https://github.com/iamnadhu/n14-android/tree/master/tutorials/My%20First%20App))
 >
-> 02. Counter App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/Counter%20App))
+> 02. Counter App ([link](https://github.com/iamnadhu/n14-android/tree/master/tutorials/Counter%20App))
 >
-> 03. Login UI App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/tutorials/Login%20UI%20App))
+> 03. Login UI App ([link](https://github.com/iamnadhu/n14-android/tree/master/tutorials/Login%20UI%20App))
 >
 > 04. App
 >
 > 05. App
 
 
-## Sessions [<img src="https://github.com/iamnadhu/n14-icons/blob/master/sessions-icon.png">](https://github.com/iamnadhu/nadhu014-android)
+## Sessions [<img src="https://github.com/iamnadhu/n14-icons/blob/master/sessions-icon.png">](https://github.com/iamnadhu/n14-android)
 
-> 01. Touch App ([link](https://github.com/iamnadhu/nadhu014-android/tree/master/sessions/Touch%20App))
+> 01. Touch App ([link](https://github.com/iamnadhu/n14-android/tree/master/sessions/Touch%20App))
 >
 > 02. Swipe App ([link](https://github.com/iamnadhu/n14-android/tree/master/sessions/Swipe%20App))
 >
@@ -40,7 +40,7 @@ This Section includes three categories:
 > 05. App
 
 
-## Projects [<img src="https://github.com/iamnadhu/n14-icons/blob/master/projects-icon.png">](https://github.com/iamnadhu/nadhu014-android)
+## Projects [<img src="https://github.com/iamnadhu/n14-icons/blob/master/projects-icon.png">](https://github.com/iamnadhu/n14-android)
 
 > 01. Restaurant App [IN PROGRESS] ([link](https://github.com/iamnadhu/n14-android/tree/master/projects/Restaurant%20App))
 >
@@ -71,5 +71,5 @@ Show your support!
 Please ⭐️   this repository if this section helped you!
 
 
-## License [<img src="https://github.com/iamnadhu/n14-icons/blob/master/license-icon.png">](https://github.com/iamnadhu/nadhu014-android)
+## License [<img src="https://github.com/iamnadhu/n14-icons/blob/master/license-icon.png">](https://github.com/iamnadhu/n14-android)
 Copyright © 2020 [Nadhu](https://github.com/iamnadhu)
