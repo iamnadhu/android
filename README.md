@@ -3,14 +3,12 @@ Created by [Nadhu](https://github.com/iamnadhu)
 
 This is a small coding world for building your own 'Android' Mobile Applications using 'Java / Kotlin' Language and 'Android Studio' IDE.
 
+
 ```
-This Section includes three categories:
-1. Tutorials
-      It's mainly about basic android (eg: Components, Button Click, Activity, Fragment etc...)
-2. Sessions
-      It's focussed on advanced android (eg: Tap Gesture, Firebase Auth, Push Notifications etc...)
-3. Projects
-      This section contains simple projects in daily life (eg: Chat Application, Shopping Cart, Restaurant App etc...) 
+This Section includes 3 Categories:
+01. Tutorials: Basic Android (eg: Components, Button Click, Activity, Fragment etc...)
+02. Sessions : Advanced Android (eg: Tap/Swipe Gestures, Firebase Auth/Push Notifications etc...)
+03. Projects : Simple projects helpful in daily life (eg: Blog App, Restaurant App, Chat App etc...)
 ```
 
 
