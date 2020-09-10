@@ -1,8 +1,6 @@
 # Android [<img src="https://github.com/iamnadhu/n14-icons/blob/master/android-icon.png">](https://github.com/iamnadhu/n14-android/tree/master/Tutorials/My%20First%20App)
 Created by [Nadhu](https://github.com/iamnadhu)
 
-This is a small coding world for building your own 'Android' mobile applications using 'Java / Kotlin' Language and 'Android Studio' IDE.
-
 
 ## My First App
 ### Screenshots
