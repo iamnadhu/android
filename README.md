@@ -7,13 +7,13 @@ This is a small coding world for building your own 'Android' Mobile Applications
 ### This Section includes 3 Categories:
 ```
 01. Tutorials: 
-    Basic Android (eg: Components, Button Click, Activity, Fragment etc...)
+    This Section includes 'Basic Android' Projects (eg: Components, Button Click, Activity, Fragment etc...).
     
 02. Sessions : 
-    Advanced Android (eg: Tap / Swipe Gestures, Firebase Auth / Push Notifications etc...)
+    This Section includes 'Advanced Android' Projects (eg: Tap / Swipe Gestures, Firebase Auth / Push Notifications etc...).
 
 03. Projects : 
-    Simple projects helpful in daily life (eg: Blog App, Restaurant App, Chat App etc...)
+    This Section includes 'Helpful Projects' in our daily life (eg: Blog App, Restaurant App, Chat App etc...).
 ```
 
 
