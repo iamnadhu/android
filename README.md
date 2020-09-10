@@ -1,19 +1,19 @@
 # Android [<img src="https://github.com/iamnadhu/n14-icons/blob/master/android-icon.png">](https://github.com/iamnadhu/n14-android)
 Created by [Nadhu](https://github.com/iamnadhu)
 
-This is a small coding world for building your own 'Android' mobile applications using 'Java / Kotlin' Language and 'Android Studio' IDE.
+This is a small coding world for building your own 'Android' mobile applications using 'Java / Kotlin' language and 'Android Studio' ide.
 
 
 ### This section includes 3 categories:
 ```
 01. Tutorials: 
-    This section includes 'Basic Android' Projects (eg: Components, Button Click, Activity, Fragment etc...).
+    This section includes 'Basic Android' Projects (eg: Components, Button Click, Activity, Fragment etc...)
     
 02. Sessions : 
-    This section includes 'Advanced Android' Projects (eg: Tap / Swipe Gestures, Firebase Auth / Push Notifications etc...).
+    This section includes 'Advanced Android' Projects (eg: Tap / Swipe Gestures, Firebase Auth / Push Notifications etc...)
 
 03. Projects : 
-    This section includes 'Helpful Projects' in our daily life (eg: Blog App, Restaurant App, Chat App etc...).
+    This section includes 'Helpful Projects' in our daily life (eg: Blog App, Restaurant App, Chat App etc...)
 ```
 
 
