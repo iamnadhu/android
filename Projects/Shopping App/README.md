@@ -1,15 +1,20 @@
-# Android: Projects [IN PROGRESS] [<img src="https://github.com/iamnadhu/n14-icons/blob/master/android-icon.png">](https://github.com/iamnadhu/n14-android/tree/master/projects/Shopping%20App)
+# Android: Projects [IN PROGRESS] [<img src="https://github.com/iamnadhu/n14-icons/blob/master/android-icon.png">](https://github.com/iamnadhu/n14-android/tree/master/Projects/Shopping%20App)
 Created by [Nadhu](https://github.com/iamnadhu)
 
 
 ## Shopping App
 ### Screenshots
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Projects/Shopping%20App/Screenshots/01.jpg)
 ### Components Used:
 ```
 - 
+-
+-
 ```
 ### Things Learned:
 ```
+-
+-
 - 
 ```
 
@@ -32,5 +37,5 @@ Show your support!
 Please ⭐️   this repository if this section helped you!
 
 
-## License [<img src="https://github.com/iamnadhu/n14-icons/blob/master/license-icon.png">](https://github.com/iamnadhu/n14-android/tree/master/projects/Shopping%20App)
+## License [<img src="https://github.com/iamnadhu/n14-icons/blob/master/license-icon.png">](https://github.com/iamnadhu/n14-android/tree/master/Projects/Shopping%20App)
 Copyright © 2020 [Nadhu](https://github.com/iamnadhu)
