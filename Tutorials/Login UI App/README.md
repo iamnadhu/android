@@ -1,15 +1,15 @@
-# Android: Tutorials [<img src="https://github.com/iamnadhu/n14-icons/blob/master/android-icon.png">](https://github.com/iamnadhu/n14-android/tree/master/tutorials/Login%20UI%20App)
+# Android: Tutorials [<img src="https://github.com/iamnadhu/n14-icons/blob/master/android-icon.png">](https://github.com/iamnadhu/n14-android/tree/master/Tutorials/Login%20UI%20App)
 Created by [Nadhu](https://github.com/iamnadhu)
 
 
 ## Login UI App
 ### Screenshots
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/tutorials/Login%20UI%20App/Screenshots/01.jpg)
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/tutorials/Login%20UI%20App/Screenshots/02.jpg)
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/tutorials/Login%20UI%20App/Screenshots/03.jpg)
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/tutorials/Login%20UI%20App/Screenshots/04.jpg)
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/tutorials/Login%20UI%20App/Screenshots/05.jpg)
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/tutorials/Login%20UI%20App/Screenshots/06.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Tutorials/Login%20UI%20App/Screenshots/01.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Tutorials/Login%20UI%20App/Screenshots/02.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Tutorials/Login%20UI%20App/Screenshots/03.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Tutorials/Login%20UI%20App/Screenshots/04.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Tutorials/Login%20UI%20App/Screenshots/05.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Tutorials/Login%20UI%20App/Screenshots/06.jpg)
 ### Components Used:
 ```
 - 'LinearLayout', 'TextView', 'Space', 'EditText', 'Button'
@@ -42,5 +42,5 @@ Show your support!
 Please ⭐️   this repository if this section helped you!
 
 
-## License [<img src="https://github.com/iamnadhu/n14-icons/blob/master/license-icon.png">](https://github.com/iamnadhu/n14-android/tree/master/tutorials/Login%20UI%20App)
+## License [<img src="https://github.com/iamnadhu/n14-icons/blob/master/license-icon.png">](https://github.com/iamnadhu/n14-android/tree/master/Tutorials/Login%20UI%20App)
 Copyright © 2020 [Nadhu](https://github.com/iamnadhu)
