@@ -1,4 +1,4 @@
-# Android: Sessions [<img src="https://github.com/iamnadhu/n14-icons/blob/master/android-icon.png">](https://github.com/iamnadhu/n14-android/tree/master/Tutorials/My%20First%20App)
+# Android: Sessions [<img src="https://github.com/iamnadhu/n14-icons/blob/master/android-icon.png">](https://github.com/iamnadhu/n14-android/tree/master/Sessions/Touch%20App)
 Created by [Nadhu](https://github.com/iamnadhu)
 
 
@@ -38,5 +38,5 @@ Show your support!
 Please ⭐️   this repository if this section helped you!
 
 
-## License [<img src="https://github.com/iamnadhu/n14-icons/blob/master/license-icon.png">](https://github.com/iamnadhu/n14-android/tree/master/Tutorials/My%20First%20App)
+## License [<img src="https://github.com/iamnadhu/n14-icons/blob/master/license-icon.png">](https://github.com/iamnadhu/n14-android/tree/master/Sessions/Touch%20App)
 Copyright © 2020 [Nadhu](https://github.com/iamnadhu)
