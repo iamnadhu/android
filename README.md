@@ -22,11 +22,11 @@ This is a small coding world for building your own 'Android' mobile applications
 
 ## Tutorials [<img src="https://github.com/iamnadhu/n14-icons/blob/master/tutorials-icon.png">](https://github.com/iamnadhu/n14-android)
 
-> 01. My First App ([link](https://github.com/iamnadhu/n14-android/tree/master/tutorials/My%20First%20App))
+> 01. My First App ([link](https://github.com/iamnadhu/n14-android/tree/master/Tutorials/My%20First%20App))
 >
-> 02. Counter App ([link](https://github.com/iamnadhu/n14-android/tree/master/tutorials/Counter%20App))
+> 02. Counter App ([link](https://github.com/iamnadhu/n14-android/tree/master/Tutorials/Counter%20App))
 >
-> 03. Login UI App ([link](https://github.com/iamnadhu/n14-android/tree/master/tutorials/Login%20UI%20App))
+> 03. Login UI App ([link](https://github.com/iamnadhu/n14-android/tree/master/Tutorials/Login%20UI%20App))
 >
 > 04. App
 >
@@ -35,9 +35,9 @@ This is a small coding world for building your own 'Android' mobile applications
 
 ## Sessions [<img src="https://github.com/iamnadhu/n14-icons/blob/master/sessions-icon.png">](https://github.com/iamnadhu/n14-android)
 
-> 01. Touch App ([link](https://github.com/iamnadhu/n14-android/tree/master/sessions/Touch%20App))
+> 01. Touch App ([link](https://github.com/iamnadhu/n14-android/tree/master/Sessions/Touch%20App))
 >
-> 02. Swipe App ([link](https://github.com/iamnadhu/n14-android/tree/master/sessions/Swipe%20App))
+> 02. Swipe App ([link](https://github.com/iamnadhu/n14-android/tree/master/Sessions/Swipe%20App))
 >
 > 03. App
 >
@@ -48,13 +48,13 @@ This is a small coding world for building your own 'Android' mobile applications
 
 ## Projects [<img src="https://github.com/iamnadhu/n14-icons/blob/master/projects-icon.png">](https://github.com/iamnadhu/n14-android)
 
-> 01. Blog App
+> 01. Blog App ([link](https://github.com/iamnadhu/n14-android/tree/master/Projects/Blog%20App))
 >
-> 02. Restaurant App
+> 02. Restaurant App ([link](https://github.com/iamnadhu/n14-android/tree/master/Projects/Restaurant%20App))
 >
-> 03. Chat App
+> 03. Chat App ([link](https://github.com/iamnadhu/n14-android/tree/master/Projects/Chat%20App))
 >
-> 04. Shopping App
+> 04. Shopping App ([link](https://github.com/iamnadhu/n14-android/tree/master/Projects/Shopping%20App))
 >
 > 05. App
 
