@@ -1,7 +1,8 @@
 # Android [<img src="https://github.com/iamnadhu/n14-icons/blob/master/android-icon.png">](https://github.com/iamnadhu/n14-android)
 Created by [Nadhu](https://github.com/iamnadhu)
-
+```
 This is a small coding world for building your own 'Android' mobile applications using 'Java / Kotlin' Language and 'Android Studio' IDE.
+```
 
 
 ### This section includes 3 categories:
@@ -65,7 +66,6 @@ Created by [Nadhu](https://github.com/iamnadhu)
 [<img src="https://github.com/iamnadhu/n14-icons/blob/master/nadhu-pic.jpg">](https://github.com/iamnadhu)
 
 Follow me on: 
-
 [<img src="https://github.com/iamnadhu/n14-icons/blob/master/instagram-icon.png">](https://www.instagram.com/iamnadhu/)
 [<img src="https://github.com/iamnadhu/n14-icons/blob/master/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=917293451396&lang=en)
 [<img src="https://github.com/iamnadhu/n14-icons/blob/master/facebook-icon.png">](https://www.facebook.com/iamnadhu/)
