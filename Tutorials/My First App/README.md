@@ -5,11 +5,11 @@ Created by [Nadhu](https://github.com/iamnadhu)
 ## My First App
 ### Screenshots
 #### Light Mode
-![screenshot](https://github.com/iamnadhu/n14-android/tree/master/Tutorials/My%20First%20App/Screenshots/01.jpg)
-![screenshot](https://github.com/iamnadhu/n14-android/tree/master/Tutorials/My%20First%20App/Screenshots/02.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Tutorials/My%20First%20App/Screenshots/01.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Tutorials/My%20First%20App/Screenshots/02.jpg)
 #### Dark Mode
-![screenshot](https://github.com/iamnadhu/n14-android/tree/master/Tutorials/My%20First%20App/Screenshots/03.jpg)
-![screenshot](https://github.com/iamnadhu/n14-android/tree/master/Tutorials/My%20First%20App/Screenshots/04.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Tutorials/My%20First%20App/Screenshots/03.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Tutorials/My%20First%20App/Screenshots/04.jpg)
 ### Components Used:
 ```
 - 'LinearLayout', 'TextView', 'Button'
