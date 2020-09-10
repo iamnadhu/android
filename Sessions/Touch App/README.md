@@ -1,14 +1,14 @@
-# Android: Sessions [<img src="https://github.com/iamnadhu/n14-icons/blob/master/android-icon.png">](https://github.com/iamnadhu/n14-android/tree/master/sessions/Touch%20App)
+# Android: Sessions [<img src="https://github.com/iamnadhu/n14-icons/blob/master/android-icon.png">](https://github.com/iamnadhu/n14-android/tree/master/Tutorials/My%20First%20App)
 Created by [Nadhu](https://github.com/iamnadhu)
 
 
 ## Touch App
 ### Screenshots
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/sessions/Touch%20App/screenshots/01.png)
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/sessions/Touch%20App/screenshots/02.png)
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/sessions/Touch%20App/screenshots/03.png)
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/sessions/Touch%20App/screenshots/04.png)
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/sessions/Touch%20App/screenshots/05.png)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Sessions/Touch%20App/Screenshots/01.png)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Sessions/Touch%20App/Screenshots/02.png)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Sessions/Touch%20App/Screenshots/03.png)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Sessions/Touch%20App/Screenshots/04.png)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Sessions/Touch%20App/Screenshots/05.png)
 ### Components Used:
 ```
 - 'LinearLayout', 'TextView'
@@ -38,5 +38,5 @@ Show your support!
 Please ⭐️   this repository if this section helped you!
 
 
-## License [<img src="https://github.com/iamnadhu/n14-icons/blob/master/license-icon.png">](https://github.com/iamnadhu/n14-android/tree/master/sessions/Touch%20App)
+## License [<img src="https://github.com/iamnadhu/n14-icons/blob/master/license-icon.png">](https://github.com/iamnadhu/n14-android/tree/master/Tutorials/My%20First%20App)
 Copyright © 2020 [Nadhu](https://github.com/iamnadhu)
