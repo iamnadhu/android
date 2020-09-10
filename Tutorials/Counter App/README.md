@@ -8,7 +8,7 @@ Created by [Nadhu](https://github.com/iamnadhu)
 ![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Tutorials/Counter%20App/Screenshots/02.jpg)
 ![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Tutorials/Counter%20App/Screenshots/03.jpg)
 ![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Tutorials/Counter%20App/Screenshots/04.jpg)
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Tutorials/Counter%20App/Screenshots/05.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Tutorials/Counter%20App/Screenshots/05.png)
 ### Components Used:
 ```
 - 'LinearLayout', 'TextView', 'Space', 'Button'
