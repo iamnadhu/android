@@ -48,13 +48,13 @@ This is a small coding world for building your own 'Android' mobile applications
 
 ## Projects [<img src="https://github.com/iamnadhu/n14-icons/blob/master/projects-icon.png">](https://github.com/iamnadhu/n14-android)
 
-> 01. Blog App ([link](https://github.com/iamnadhu/n14-android/tree/master/Projects/Blog%20App))
+> 01. Blog App [IN PROGRESS] ([link](https://github.com/iamnadhu/n14-android/tree/master/Projects/Blog%20App))
 >
-> 02. Restaurant App ([link](https://github.com/iamnadhu/n14-android/tree/master/Projects/Restaurant%20App))
+> 02. Restaurant App [IN PROGRESS] ([link](https://github.com/iamnadhu/n14-android/tree/master/Projects/Restaurant%20App))
 >
-> 03. Chat App ([link](https://github.com/iamnadhu/n14-android/tree/master/Projects/Chat%20App))
+> 03. Chat App [IN PROGRESS] ([link](https://github.com/iamnadhu/n14-android/tree/master/Projects/Chat%20App))
 >
-> 04. Shopping App ([link](https://github.com/iamnadhu/n14-android/tree/master/Projects/Shopping%20App))
+> 04. Shopping App [IN PROGRESS] ([link](https://github.com/iamnadhu/n14-android/tree/master/Projects/Shopping%20App))
 >
 > 05. App
 
