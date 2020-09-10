@@ -1,4 +1,4 @@
-# Android [<img src="https://github.com/iamnadhu/n14-icons/blob/master/android-icon.png">](https://github.com/iamnadhu/n14-android)
+# Android [<img src="https://github.com/iamnadhu/n14-icons/blob/master/android-icon.png">](https://github.com/iamnadhu/n14-android/tree/master/Tutorials/My%20First%20App)
 Created by [Nadhu](https://github.com/iamnadhu)
 
 This is a small coding world for building your own 'Android' mobile applications using 'Java / Kotlin' Language and 'Android Studio' IDE.
@@ -7,11 +7,11 @@ This is a small coding world for building your own 'Android' mobile applications
 ## My First App
 ### Screenshots
 #### Light Mode
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/tutorials/My%20First%20App/Screenshots/01.jpg)
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/tutorials/My%20First%20App/Screenshots/02.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/tree/master/Tutorials/My%20First%20App/Screenshots/01.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/tree/master/Tutorials/My%20First%20App/Screenshots/02.jpg)
 #### Dark Mode
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/tutorials/My%20First%20App/Screenshots/03.jpg)
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/tutorials/My%20First%20App/Screenshots/04.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/tree/master/Tutorials/My%20First%20App/Screenshots/03.jpg)
+![screenshot](https://github.com/iamnadhu/n14-android/tree/master/Tutorials/My%20First%20App/Screenshots/04.jpg)
 ### Components Used:
 ```
 - 'LinearLayout', 'TextView', 'Button'
