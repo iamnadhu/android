@@ -2,7 +2,7 @@
 Created by [Nadhu](https://github.com/iamnadhu)
 
 
-## Blog App
+## Restaurant App
 ### Screenshots
 ![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Projects/Restaurant%20App/Screenshots/01.jpg)
 ### Components Used:
