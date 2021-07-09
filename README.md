@@ -1,81 +1,66 @@
-# Android [<img src="https://github.com/iamnadhu/n14-icons/blob/master/android-icon.png">](https://github.com/iamnadhu/n14-android)
+# Android <img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/android-icon.png">
 Created by [Nadhu](https://github.com/iamnadhu)
 
-This is a small coding world for building your own 'Android' mobile applications using 'Java / Kotlin' Language and 'Android Studio' IDE.
+This is an 'Android' mobile application development workspace.
 
 
-### This section includes 3 categories:
 ```
-01. Tutorials: 
-    This section includes 'Basic Android' Projects. 
-    Eg: Components, Button Click, Activity, Fragment etc...
-    
-02. Sessions : 
-    This section includes 'Advanced Android' Projects. 
-    Eg: Tap / Swipe Gestures, Firebase Auth / Push Notifications etc...
-
-03. Projects : 
-    This section includes 'Helpful Projects' in our daily life. 
-    Eg: Blog App, Restaurant App, Chat App etc...
+This section includes three categories:
+#01. Tutorials
+      It is mainly about basics in ios (Eg: Components, Button Tap, Xib, Table View etc...)
+#02. Sessions
+      It is focussed on advanced features in ios (Eg: Tap Gesture, Firebase Auth, Push Notifications etc...)
+#03. Projects
+      This section contains simple projects used in our daily life (Eg: Chat Application, Shopping Cart, Restaurant App etc...) 
 ```
 
 
-## Tutorials [<img src="https://github.com/iamnadhu/n14-icons/blob/master/tutorials-icon.png">](https://github.com/iamnadhu/n14-android)
+### #01: Tutorials <img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/tutorials-icon.png">
+>
+> [01. App](https://github.com/iamnadhu/Android-N14)
+>
+> [02. App](https://github.com/iamnadhu/Android-N14)
+>
+> [03. App](https://github.com/iamnadhu/Android-N14)
+>
 
-> 01. My First App ([link](https://github.com/iamnadhu/n14-android/tree/master/Tutorials/My%20First%20App))
+### #02: Sessions <img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/sessions-icon.png">
 >
-> 02. Counter App ([link](https://github.com/iamnadhu/n14-android/tree/master/Tutorials/Counter%20App))
+> [01. App](https://github.com/iamnadhu/Android-N14)
 >
-> 03. Login UI App ([link](https://github.com/iamnadhu/n14-android/tree/master/Tutorials/Login%20UI%20App))
+> [02. App](https://github.com/iamnadhu/Android-N14)
 >
-> 04. App
+> [03. App](https://github.com/iamnadhu/Android-N14)
 >
-> 05. App
 
-
-## Sessions [<img src="https://github.com/iamnadhu/n14-icons/blob/master/sessions-icon.png">](https://github.com/iamnadhu/n14-android)
-
-> 01. Touch App ([link](https://github.com/iamnadhu/n14-android/tree/master/Sessions/Touch%20App))
+### #03: Projects <img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/projects-icon.png">
 >
-> 02. Swipe App ([link](https://github.com/iamnadhu/n14-android/tree/master/Sessions/Swipe%20App))
+> [01. App](https://github.com/iamnadhu/Android-N14)
 >
-> 03. App
+> [02. App](https://github.com/iamnadhu/Android-N14)
 >
-> 04. App
+> [03. App](https://github.com/iamnadhu/Android-N14)
 >
-> 05. App
-
-
-## Projects [<img src="https://github.com/iamnadhu/n14-icons/blob/master/projects-icon.png">](https://github.com/iamnadhu/n14-android)
-
-> 01. Blog App ([link](https://github.com/iamnadhu/n14-android/tree/master/Projects/Blog%20App)) [In Progress]
->
-> 02. Restaurant App ([link](https://github.com/iamnadhu/n14-android/tree/master/Projects/Restaurant%20App)) [In Progress]
->
-> 03. Chat App ([link](https://github.com/iamnadhu/n14-android/tree/master/Projects/Chat%20App)) [In Progress]
->
-> 04. Shopping App ([link](https://github.com/iamnadhu/n14-android/tree/master/Projects/Shopping%20App)) [In Progress]
->
-> 05. App
 
 
-## Author [<img src="https://github.com/iamnadhu/n14-icons/blob/master/auther-icon.png">](https://github.com/iamnadhu)
+## Author [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/auther-icon.png">](https://github.com/iamnadhu)
 Created by [Nadhu](https://github.com/iamnadhu)
 
-[<img src="https://github.com/iamnadhu/n14-icons/blob/master/nadhu-pic.jpg">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/nadhu-icon.jpg">](https://github.com/iamnadhu)
 
 Follow me on: 
 
-[<img src="https://github.com/iamnadhu/n14-icons/blob/master/instagram-icon.png">](https://www.instagram.com/iamnadhu/)
-[<img src="https://github.com/iamnadhu/n14-icons/blob/master/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=917293451396&lang=en)
-[<img src="https://github.com/iamnadhu/n14-icons/blob/master/facebook-icon.png">](https://www.facebook.com/iamnadhu/)
-[<img src="https://github.com/iamnadhu/n14-icons/blob/master/linkedin-icon.png">](https://www.linkedin.com/in/iamnadhu/)
-[<img src="https://github.com/iamnadhu/n14-icons/blob/master/telegram-icon.png">](https://t.me/iamnadhu)
+[<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/telegram-icon.png">](https://t.me/iamnadhu)
+[<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/instagram-icon.png">](https://www.instagram.com/iamnadhu/)
+[<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=917293451396&lang=en)
+[<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/linkedin-icon.png">](https://www.linkedin.com/in/iamnadhu/)
+[<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/facebook-icon.png">](https://www.facebook.com/iamnadhu/)
+
 
 Show your support!
 
 Please ⭐️   this repository if this section helped you!
 
 
-## License [<img src="https://github.com/iamnadhu/n14-icons/blob/master/license-icon.png">](https://github.com/iamnadhu/n14-android)
-Copyright © 2020 [Nadhu](https://github.com/iamnadhu)
+## License <img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/license-icon.png">
+Copyright © 2021 [Nadhu](https://github.com/iamnadhu)
