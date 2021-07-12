@@ -6,9 +6,9 @@ This is an 'Android' mobile application development workspace.
 
 ## Advance <img src="https://github.com/iamnadhu/Android/blob/master/Resources/sessions-icon.png">
 >
-> [01. Touch App](https://github.com/iamnadhu/Android)
+> [01. Touch App](https://github.com/iamnadhu/Android/tree/master/Advance/Touch%20App)
 >
-> [02. Swipe App](https://github.com/iamnadhu/Android)
+> [02. Swipe App](https://github.com/iamnadhu/Android/tree/master/Advance/Swipe%20App)
 >
 
 

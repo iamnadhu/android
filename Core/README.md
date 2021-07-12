@@ -6,9 +6,9 @@ This is an 'Android' mobile application development workspace.
 
 ## Core <img src="https://github.com/iamnadhu/Android/blob/master/Resources/tutorials-icon.png">
 >
-> [01. My First App](https://github.com/iamnadhu/Android)
+> [01. My First App](https://github.com/iamnadhu/Android/tree/master/Core/My%20First%20App)
 >
-> [02. Login UI App](https://github.com/iamnadhu/Android)
+> [02. Login UI App](https://github.com/iamnadhu/Android/tree/master/Core/Login%20UI%20App)
 >
 
 

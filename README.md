@@ -19,27 +19,27 @@ This repository consist of four categories:
 
 ### #01 Core <img src="https://github.com/iamnadhu/Android/blob/master/Resources/tutorials-icon.png">
 >
-> [01. My First App](https://github.com/iamnadhu/Android)
+> [01. My First App](https://github.com/iamnadhu/Android/tree/master/Core/My%20First%20App)
 >
-> [02. Login UI App](https://github.com/iamnadhu/Android)
+> [02. Login UI App](https://github.com/iamnadhu/Android/tree/master/Core/Login%20UI%20App)
 >
 
 ### #02 Advance <img src="https://github.com/iamnadhu/Android/blob/master/Resources/sessions-icon.png">
 >
-> [01. Touch App](https://github.com/iamnadhu/Android)
+> [01. Touch App](https://github.com/iamnadhu/Android/tree/master/Advance/Touch%20App)
 >
-> [02. Swipe App](https://github.com/iamnadhu/Android)
+> [02. Swipe App](https://github.com/iamnadhu/Android/tree/master/Advance/Swipe%20App)
 >
 
 ### #03 Projects <img src="https://github.com/iamnadhu/Android/blob/master/Resources/projects-icon.png">
 >
-> [01. Chat App](https://github.com/iamnadhu/Android)
+> [01. Chat App](https://github.com/iamnadhu/Android/tree/master/Projects/Chat%20App)
 >
-> [02. Shopping App](https://github.com/iamnadhu/Android)
+> [02. Shopping App](https://github.com/iamnadhu/Android/tree/master/Projects/Shopping%20App)
 >
-> [03. Restaurant App](https://github.com/iamnadhu/Android)
+> [03. Restaurant App](https://github.com/iamnadhu/Android/tree/master/Projects/Restaurant%20App)
 >
-> [04. Blog App](https://github.com/iamnadhu/Android)
+> [04. Blog App](https://github.com/iamnadhu/Android/tree/master/Projects/Blog%20App)
 >
 
 ### #04 Extras <img src="https://github.com/iamnadhu/Android/blob/master/Resources/extras-icon.png">

@@ -6,13 +6,13 @@ This is an 'Android' mobile application development workspace.
 
 ## Projects <img src="https://github.com/iamnadhu/Android/blob/master/Resources/projects-icon.png">
 >
-> [01. Chat App](https://github.com/iamnadhu/Android)
+> [01. Chat App](https://github.com/iamnadhu/Android/tree/master/Projects/Chat%20App)
 >
-> [02. Shopping App](https://github.com/iamnadhu/Android)
+> [02. Shopping App](https://github.com/iamnadhu/Android/tree/master/Projects/Shopping%20App)
 >
-> [03. Restaurant App](https://github.com/iamnadhu/Android)
+> [03. Restaurant App](https://github.com/iamnadhu/Android/tree/master/Projects/Restaurant%20App)
 >
-> [04. Blog App](https://github.com/iamnadhu/Android)
+> [04. Blog App](https://github.com/iamnadhu/Android/tree/master/Projects/Blog%20App)
 >
 
 
