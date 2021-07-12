@@ -17,28 +17,28 @@ This repository consist of four categories:
 ```
 
 
-### #01: Tutorials <img src="https://github.com/iamnadhu/Android-N14/blob/master/Resources/tutorials-icon.png">
+### #01 Tutorials <img src="https://github.com/iamnadhu/Android-N14/blob/master/Resources/tutorials-icon.png">
 >
 > [01. My First App](https://github.com/iamnadhu/Android-N14)
 >
 > [02. Login UI App](https://github.com/iamnadhu/Android-N14)
 >
 
-### #02: Sessions <img src="https://github.com/iamnadhu/Android-N14/blob/master/Resources/sessions-icon.png">
+### #02 Sessions <img src="https://github.com/iamnadhu/Android-N14/blob/master/Resources/sessions-icon.png">
 >
 > [01. Touch App](https://github.com/iamnadhu/Android-N14)
 >
 > [02. Swipe App](https://github.com/iamnadhu/Android-N14)
 >
 
-### #03: Projects <img src="https://github.com/iamnadhu/Android-N14/blob/master/Resources/projects-icon.png">
+### #03 Projects <img src="https://github.com/iamnadhu/Android-N14/blob/master/Resources/projects-icon.png">
 >
 > [01. Chat App](https://github.com/iamnadhu/Android-N14)
 >
 > [02. Shopping App](https://github.com/iamnadhu/Android-N14)
 >
 
-### #04: Extras <img src="https://github.com/iamnadhu/Android-N14/blob/master/Resources/extras-icon.png">
+### #04 Extras <img src="https://github.com/iamnadhu/Android-N14/blob/master/Resources/extras-icon.png">
 >
 > [01. Udemy](https://github.com/iamnadhu/Android-N14)
 >
