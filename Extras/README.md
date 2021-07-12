@@ -6,9 +6,9 @@ This is an 'Android' mobile application development workspace.
 
 ## Extras <img src="https://github.com/iamnadhu/Android/blob/master/Resources/extras-icon.png">
 >
-> [01. Udemy](https://github.com/iamnadhu/Android)
+> [01. Udemy](https://github.com/iamnadhu/Android/tree/master/Extras/Udemy)
 >
-> [02. Youtube](https://github.com/iamnadhu/Android)
+> [02. Youtube](https://github.com/iamnadhu/Android/tree/master/Extras/Youtube)
 >
 
 
