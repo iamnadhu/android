@@ -1,21 +1,23 @@
-# Android <img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/android-icon.png">
+# Android <img src="https://github.com/iamnadhu/Android-N14/blob/master/Resources/android-icon.png">
 Created by [Nadhu](https://github.com/iamnadhu)
 
 This is an 'Android' mobile application development workspace.
 
 
 ```
-This section includes three categories:
+This repository consist of four categories:
 #01. Tutorials
-      It is mainly about basics in ios (Eg: Components, Button Tap, Xib, Table View etc...)
+      It is mainly about basics in 'Android' (Eg: Components, Widgets, Button Tap, List View, Card View, jSON Parsing etc...)
 #02. Sessions
-      It is focussed on advanced features in ios (Eg: Tap Gesture, Firebase Auth, Push Notifications etc...)
+      It is focussed on advanced features in 'Android' (Eg: Tap Gesture, Firebase Auth, Push Notifications, OTP Verification etc...)
 #03. Projects
-      This section contains simple projects used in our daily life (Eg: Chat Application, Shopping Cart, Restaurant App etc...) 
+      This section contains simple projects used in our daily life (Eg: Chat Application, Shopping Cart, Restaurant App etc...)
+#04. Extras
+      Just extras while learning 'Android' mobile application development or resources used like Udemy, Youtube, Medium etc...
 ```
 
 
-### #01: Tutorials <img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/tutorials-icon.png">
+### #01: Tutorials <img src="https://github.com/iamnadhu/Android-N14/blob/master/Resources/tutorials-icon.png">
 >
 > [01. App](https://github.com/iamnadhu/Android-N14)
 >
@@ -24,7 +26,7 @@ This section includes three categories:
 > [03. App](https://github.com/iamnadhu/Android-N14)
 >
 
-### #02: Sessions <img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/sessions-icon.png">
+### #02: Sessions <img src="https://github.com/iamnadhu/Android-N14/blob/master/Resources/sessions-icon.png">
 >
 > [01. App](https://github.com/iamnadhu/Android-N14)
 >
@@ -33,13 +35,22 @@ This section includes three categories:
 > [03. App](https://github.com/iamnadhu/Android-N14)
 >
 
-### #03: Projects <img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/projects-icon.png">
+### #03: Projects <img src="https://github.com/iamnadhu/Android-N14/blob/master/Resources/projects-icon.png">
 >
 > [01. App](https://github.com/iamnadhu/Android-N14)
 >
 > [02. App](https://github.com/iamnadhu/Android-N14)
 >
 > [03. App](https://github.com/iamnadhu/Android-N14)
+>
+
+### #04: Extras <img src="https://github.com/iamnadhu/Android-N14/blob/master/Resources/extras-icon.png">
+>
+> [01. Udemy](https://github.com/iamnadhu/Android-N14)
+>
+> [02. Youtube](https://github.com/iamnadhu/Android-N14)
+>
+> [03. Medium](https://github.com/iamnadhu/Android-N14)
 >
 
 
