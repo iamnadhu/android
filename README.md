@@ -1,4 +1,4 @@
-## Android <img src="https://github.com/iamnadhu/Android/blob/master/Resources/android-icon.png">
+# Android <img src="https://github.com/iamnadhu/Android/blob/master/Resources/android-icon.png">
 Created by [Nadhu](https://github.com/iamnadhu)
 
 This is an 'Android' mobile application development workspace.
@@ -6,9 +6,9 @@ This is an 'Android' mobile application development workspace.
 
 ```
 This repository consist of four categories:
-#01. Core Android
+#01. Core
       Basics of Android, UI Widgets, Activity, Intent & Fragment, Android Menu, Layout Manager, Adaptor, View etc...
-#02. Advance Android
+#02. Advance
       Android Service, Data Storage, SQLite, XML & JSON, Cotent Provider, Android Notification, Multimedia, Speech API, Telephony API, Location API, Animation, Device Connectivity, Sensor, Android Graphics, Android P2P Communication, Android Web Services, Android Google Map, Firebase etc...
 #03. Projects
       Chat Application, Shopping Cart, Restaurant App etc...
@@ -17,14 +17,14 @@ This repository consist of four categories:
 ```
 
 
-### #01 Tutorials <img src="https://github.com/iamnadhu/Android/blob/master/Resources/tutorials-icon.png">
+### #01 Core <img src="https://github.com/iamnadhu/Android/blob/master/Resources/tutorials-icon.png">
 >
 > [01. My First App](https://github.com/iamnadhu/Android)
 >
 > [02. Login UI App](https://github.com/iamnadhu/Android)
 >
 
-### #02 Sessions <img src="https://github.com/iamnadhu/Android/blob/master/Resources/sessions-icon.png">
+### #02 Advance <img src="https://github.com/iamnadhu/Android/blob/master/Resources/sessions-icon.png">
 >
 > [01. Touch App](https://github.com/iamnadhu/Android)
 >

@@ -4,11 +4,11 @@ Created by [Nadhu](https://github.com/iamnadhu)
 This is an 'Android' mobile application development workspace.
 
 
-### Projects <img src="https://github.com/iamnadhu/Android/blob/master/Resources/projects-icon.png">
+### Advance <img src="https://github.com/iamnadhu/Android/blob/master/Resources/sessions-icon.png">
 >
-> [01. Chat App](https://github.com/iamnadhu/Android)
+> [01. Touch App](https://github.com/iamnadhu/Android)
 >
-> [02. Shopping App](https://github.com/iamnadhu/Android)
+> [02. Swipe App](https://github.com/iamnadhu/Android)
 >
 
 
