@@ -7,9 +7,9 @@ This is an 'Android' mobile application development workspace.
 ```
 This repository consist of four categories:
 #01. Tutorials
-      It is mainly about basics in 'Android' (Eg: Activities, Fragements, Layouts, Components, Widgets, Button Tap, List View, Card View, jSON Parsing etc...)
+      It is mainly about basics in Android (Eg: Activities, Fragements, Layouts, Components, List View, Card View, jSON Parsing etc...)
 #02. Sessions
-      It is focussed on advanced features in 'Android' (Eg: Tap Gesture, Firebase Auth, Push Notifications, OTP Verification etc...)
+      It is focussed on advanced features in Android (Eg: Tap Gesture, Firebase Auth, Push Notifications, OTP Verification etc...)
 #03. Projects
       This section contains simple projects used in our daily life (Eg: Chat Application, Shopping Cart, Restaurant App etc...)
 #04. Extras
