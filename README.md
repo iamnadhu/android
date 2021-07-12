@@ -37,6 +37,10 @@ This repository consist of four categories:
 >
 > [02. Shopping App](https://github.com/iamnadhu/Android)
 >
+> [03. Restaurant App](https://github.com/iamnadhu/Android)
+>
+> [04. Blog App](https://github.com/iamnadhu/Android)
+>
 
 ### #04 Extras <img src="https://github.com/iamnadhu/Android/blob/master/Resources/extras-icon.png">
 >

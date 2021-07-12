@@ -4,7 +4,7 @@ Created by [Nadhu](https://github.com/iamnadhu)
 This is an 'Android' mobile application development workspace.
 
 
-### Core <img src="https://github.com/iamnadhu/Android/blob/master/Resources/tutorials-icon.png">
+## Core <img src="https://github.com/iamnadhu/Android/blob/master/Resources/tutorials-icon.png">
 >
 > [01. My First App](https://github.com/iamnadhu/Android)
 >
