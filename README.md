@@ -6,42 +6,36 @@ This is an 'Android' mobile application development workspace.
 
 ```
 This repository consist of four categories:
-#01. Tutorials
-      It is mainly about basics in Android (Eg: Activities, Fragements, Layouts, Components, List View, Card View, jSON Parsing etc...)
-#02. Sessions
-      It is focussed on advanced features in Android (Eg: Tap Gesture, Firebase Auth, Push Notifications, OTP Verification etc...)
+#01. Core Android
+      Basics of Android, UI Widgets, Activity, Intent & Fragment, Android Menu, Layout Manager, Adaptor, View etc...
+#02. Advance Android
+      Android Service, Data Storage, SQLite, XML & JSON, Cotent Provider, Android Notification, Multimedia, Speech API, Telephony API, Location API, Animation, Device Connectivity, Sensor, Android Graphics, Android P2P Communication, Android Web Services, Android Google Map, Firebase etc...
 #03. Projects
-      This section contains simple projects used in our daily life (Eg: Chat Application, Shopping Cart, Restaurant App etc...)
+      Chat Application, Shopping Cart, Restaurant App etc...
 #04. Extras
-      Just extras while learning 'Android' mobile application development or resources used like Udemy, Youtube, Medium etc...
+      Learning references and extras related for 'Android' mobile application development or resources used like Udemy, Youtube, Medium etc...
 ```
 
 
 ### #01: Tutorials <img src="https://github.com/iamnadhu/Android-N14/blob/master/Resources/tutorials-icon.png">
 >
-> [01. App](https://github.com/iamnadhu/Android-N14)
+> [01. My First App](https://github.com/iamnadhu/Android-N14)
 >
-> [02. App](https://github.com/iamnadhu/Android-N14)
->
-> [03. App](https://github.com/iamnadhu/Android-N14)
+> [02. Login UI App](https://github.com/iamnadhu/Android-N14)
 >
 
 ### #02: Sessions <img src="https://github.com/iamnadhu/Android-N14/blob/master/Resources/sessions-icon.png">
 >
-> [01. App](https://github.com/iamnadhu/Android-N14)
+> [01. Touch App](https://github.com/iamnadhu/Android-N14)
 >
-> [02. App](https://github.com/iamnadhu/Android-N14)
->
-> [03. App](https://github.com/iamnadhu/Android-N14)
+> [02. Swipe App](https://github.com/iamnadhu/Android-N14)
 >
 
 ### #03: Projects <img src="https://github.com/iamnadhu/Android-N14/blob/master/Resources/projects-icon.png">
 >
-> [01. App](https://github.com/iamnadhu/Android-N14)
+> [01. Chat App](https://github.com/iamnadhu/Android-N14)
 >
-> [02. App](https://github.com/iamnadhu/Android-N14)
->
-> [03. App](https://github.com/iamnadhu/Android-N14)
+> [02. Shopping App](https://github.com/iamnadhu/Android-N14)
 >
 
 ### #04: Extras <img src="https://github.com/iamnadhu/Android-N14/blob/master/Resources/extras-icon.png">
@@ -49,8 +43,6 @@ This repository consist of four categories:
 > [01. Udemy](https://github.com/iamnadhu/Android-N14)
 >
 > [02. Youtube](https://github.com/iamnadhu/Android-N14)
->
-> [03. Medium](https://github.com/iamnadhu/Android-N14)
 >
 
 
@@ -74,4 +66,4 @@ Please ⭐️   this repository if this section helped you!
 
 
 ## License <img src="https://github.com/iamnadhu/Android-N14/blob/master/Resources/license-icon.png">
-Copyright © 2021 [Nadhu](https://github.com/iamnadhu)
+Copyright © 2021-2022 [Nadhu](https://github.com/iamnadhu)
