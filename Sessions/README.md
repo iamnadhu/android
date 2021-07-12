@@ -4,7 +4,7 @@ Created by [Nadhu](https://github.com/iamnadhu)
 This is an 'Android' mobile application development workspace.
 
 
-### Sessions <img src="https://github.com/iamnadhu/Android-N14/blob/master/Resources/sessions-icon.png">
+## Sessions <img src="https://github.com/iamnadhu/Android-N14/blob/master/Resources/sessions-icon.png">
 >
 > [01. Touch App](https://github.com/iamnadhu/Android-N14)
 >

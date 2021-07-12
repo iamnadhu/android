@@ -4,7 +4,7 @@ Created by [Nadhu](https://github.com/iamnadhu)
 This is an 'Android' mobile application development workspace.
 
 
-### Projects <img src="https://github.com/iamnadhu/Android-N14/blob/master/Resources/projects-icon.png">
+## Projects <img src="https://github.com/iamnadhu/Android-N14/blob/master/Resources/projects-icon.png">
 >
 > [01. Chat App](https://github.com/iamnadhu/Android-N14)
 >
