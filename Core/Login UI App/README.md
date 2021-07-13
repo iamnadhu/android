@@ -1,4 +1,4 @@
-# Login UI App [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/extras-icon.png">](https://github.com/iamnadhu/Android)
+# Login UI App [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/android-icon.png">](https://github.com/iamnadhu/Android)
 Created by [Nadhu](https://linktr.ee/iamnadhu)
 
 
