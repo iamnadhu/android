@@ -50,8 +50,6 @@ This repository consist of four categories:
 >
 > [01. Udemy](https://github.com/iamnadhu/Android/tree/master/Extras/Udemy)
 >
-> [02. Youtube](https://github.com/iamnadhu/Android/tree/master/Extras/Youtube)
->
 
 
 ## Author [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/auther-icon.png">](https://linktr.ee/iamnadhu)
