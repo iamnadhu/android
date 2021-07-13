@@ -1,10 +1,10 @@
-# Android [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/android-icon.png">](https://github.com/iamnadhu/Android/tree/master/Core)
+# Android [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/android-icon.png">](https://github.com/iamnadhu/Android)
 Created by [Nadhu](https://linktr.ee/iamnadhu)
 
 This is an 'Android' mobile application development workspace.
 
 
-## Core [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/tutorials-icon.png">](https://github.com/iamnadhu/Android/tree/master/Core)
+## Core [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/tutorials-icon.png">](https://github.com/iamnadhu/Android)
 >
 > [01. My First App](https://github.com/iamnadhu/Android/tree/master/Core/My%20First%20App)
 >
@@ -32,5 +32,5 @@ Show your support!
 Please ⭐️   this repository if this section helped you!
 
 
-## License [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/license-icon.png">](https://github.com/iamnadhu/Android/tree/master/Core)
+## License [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/license-icon.png">](https://github.com/iamnadhu/Android)
 Copyright © 2021-2022 [Nadhu](https://linktr.ee/iamnadhu)
