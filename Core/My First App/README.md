@@ -32,12 +32,11 @@ Created by [Nadhu](https://linktr.ee/iamnadhu)
 
 ### Screenshots:
 #### Light Mode
-<img src="https://github.com/iamnadhu/Android/blob/master/Core/My%20First%20App/Resources/01.jpg">
-<img src="https://github.com/iamnadhu/Android/blob/master/Core/My%20First%20App/Resources/02.jpg">
-
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Core/My%20First%20App/Resources/01.jpg)
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Core/My%20First%20App/Resources/02.jpg)
 #### Dark Mode
-<img src="https://github.com/iamnadhu/Android/blob/master/Core/My%20First%20App/Resources/03.jpg">
-<img src="https://github.com/iamnadhu/Android/blob/master/Core/My%20First%20App/Resources/04.jpg">
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Core/My%20First%20App/Resources/03.jpg)
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Core/My%20First%20App/Resources/04.jpg)
 
 
 ## Author [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/auther-icon.png">](https://linktr.ee/iamnadhu)
