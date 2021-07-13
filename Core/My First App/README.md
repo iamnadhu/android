@@ -1,20 +1,15 @@
-# Android <img src="https://github.com/iamnadhu/Android/blob/master/Resources/android-icon.png">
-Created by [Nadhu](https://github.com/iamnadhu)
+# Login UI App [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/android-icon.png">](https://github.com/iamnadhu/Android/tree/master/Core/My%20First%20App)
+Created by [Nadhu](https://linktr.ee/iamnadhu)
 
 
-## My First App
-### Screenshots
-#### Light Mode
-<img src="https://github.com/iamnadhu/Android/blob/master/Core/My%20First%20App/Screenshots/01.jpg">
-<img src="https://github.com/iamnadhu/Android/tree/master/Core/My%20First%20App/Screenshots/02.jpg">
-#### Dark Mode
-<img src="https://github.com/iamnadhu/Android/tree/master/Core/My%20First%20App/Screenshots/03.jpg">
-<img src="https://github.com/iamnadhu/Android/tree/master/Core/My%20First%20App/Screenshots/04.jpg">
-### Components Used:
+## Project Includes [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/projects-icon.png">](https://github.com/iamnadhu/Android/tree/master/Core/My%20First%20App)
+
+### Components / Widgets Used:
 ```
 - 'LinearLayout', 'TextView', 'Button'
 ```
-### Things Learned:
+
+### Things Learn:
 ```
 - Android Studio Overview (Project (manifest, java, res (drawable, layout, mipmap, values), Gradle Scripts (Adding Libraries/Dependecies)), Resource Manager etc...)
 - Import Libraries
@@ -30,11 +25,24 @@ Created by [Nadhu](https://github.com/iamnadhu)
 - Purpose of 'setText'
 ```
 
+### Extras:
+```
+- ---
+```
 
-## Author [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/auther-icon.png">](https://github.com/iamnadhu)
-Created by [Nadhu](https://github.com/iamnadhu)
+### Screenshots:
+#### Light Mode
+<img src="https://github.com/iamnadhu/Android/blob/master/Core/My%20First%20App/Screenshots/01.jpg">
+<img src="https://github.com/iamnadhu/Android/tree/master/Core/My%20First%20App/Screenshots/02.jpg">
+#### Dark Mode
+<img src="https://github.com/iamnadhu/Android/tree/master/Core/My%20First%20App/Screenshots/03.jpg">
+<img src="https://github.com/iamnadhu/Android/tree/master/Core/My%20First%20App/Screenshots/04.jpg">
 
-[<img src="https://github.com/iamnadhu/Android/blob/master/Resources/nadhu-icon.jpg">](https://github.com/iamnadhu)
+
+## Author [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/auther-icon.png">](https://linktr.ee/iamnadhu)
+Created by [Nadhu](https://linktr.ee/iamnadhu)
+
+[<img src="https://github.com/iamnadhu/Android/blob/master/Resources/nadhu-icon.jpg">](https://linktr.ee/iamnadhu)
 
 Follow me on: 
 
@@ -43,6 +51,7 @@ Follow me on:
 [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=917293451396&lang=en)
 [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/linkedin-icon.png">](https://www.linkedin.com/in/iamnadhu/)
 [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/facebook-icon.png">](https://www.facebook.com/iamnadhu/)
+[<img src="https://github.com/iamnadhu/Android/blob/master/Resources/github-icon.png">](https://github.com/iamnadhu)
 
 
 Show your support!
@@ -50,5 +59,5 @@ Show your support!
 Please ⭐️   this repository if this section helped you!
 
 
-## License <img src="https://github.com/iamnadhu/Android/blob/master/Resources/license-icon.png">
-Copyright © 2021-2022 [Nadhu](https://github.com/iamnadhu)
+## License [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/license-icon.png">](https://github.com/iamnadhu/Android/tree/master/Core/My%20First%20App)
+Copyright © 2021-2022 [Nadhu](https://linktr.ee/iamnadhu)
