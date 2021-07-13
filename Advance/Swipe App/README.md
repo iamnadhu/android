@@ -21,11 +21,11 @@ Created by [Nadhu](https://linktr.ee/iamnadhu)
 ```
 
 ### Screenshots:
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Sessions/Swipe%20App/Screenshots/01.jpg)
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Sessions/Swipe%20App/Screenshots/02.jpg)
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Sessions/Swipe%20App/Screenshots/03.jpg)
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Sessions/Swipe%20App/Screenshots/04.jpg)
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Sessions/Swipe%20App/Screenshots/05.jpg)
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Advance/Swipe%20App/Resources/01.jpg)
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Advance/Swipe%20App/Resources/02.jpg)
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Advance/Swipe%20App/Resources/03.jpg)
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Advance/Swipe%20App/Resources/04.jpg)
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Advance/Swipe%20App/Resources/05.jpg)
 
 
 ## Author [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/auther-icon.png">](https://linktr.ee/iamnadhu)
