@@ -1,17 +1,21 @@
-# Chat App [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/android-icon.png">](https://github.com/iamnadhu/Android/tree/master/Projects/Chat%20App)
+# Login UI App [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/android-icon.png">](https://github.com/iamnadhu/Android/tree/master/Core/Login%20UI%20App)
 Created by [Nadhu](https://linktr.ee/iamnadhu)
 
 
-## Project Includes [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/projects-icon.png">](https://github.com/iamnadhu/Android/tree/master/Projects/Chat%20App)
+## Project Includes [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/projects-icon.png">](https://github.com/iamnadhu/Android/tree/master/Core/Login%20UI%20App)
 
 ### Components / Widgets Used:
 ```
-- ---
+- 'LinearLayout', 'TextView', 'Space', 'EditText', 'Button'
 ```
 
 ### Things Learn:
 ```
-- ---
+- Button Click (via 'implements View.OnClickListener')
+- Purpose of 'setVisibility'
+- Purpose of 'length' of a 'String'
+- Purpose of 'getText' vs 'setText'
+- Simple Validation in Android
 ```
 
 ### Extras:
@@ -20,7 +24,12 @@ Created by [Nadhu](https://linktr.ee/iamnadhu)
 ```
 
 ### Screenshots:
-![screenshot](https://github.com/iamnadhu/Android/blob/master/Projects/Chat%20App/Resources/01.jpg)
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Core/Login%20UI%20App/Resources/01.jpg)
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Core/Login%20UI%20App/Resources/02.jpg)
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Core/Login%20UI%20App/Resources/03.jpg)
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Core/Login%20UI%20App/Resources/04.jpg)
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Core/Login%20UI%20App/Resources/05.jpg)
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Core/Login%20UI%20App/Resources/06.jpg)
 
 
 ## Author [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/auther-icon.png">](https://linktr.ee/iamnadhu)
@@ -43,5 +52,5 @@ Show your support!
 Please ⭐️   this repository if this section helped you!
 
 
-## License [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/license-icon.png">](https://github.com/iamnadhu/Android/tree/master/Projects/Chat%20App)
+## License [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/license-icon.png">](https://github.com/iamnadhu/Android/tree/master/Core/Login%20UI%20App)
 Copyright © 2021-2022 [Nadhu](https://linktr.ee/iamnadhu)
