@@ -1,5 +1,5 @@
-# Android [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/android-icon.png">](https://github.com/iamnadhu/Android)
-Created by [Nadhu](https://linktr.ee/iamnadhu)
+# Android <img src="https://github.com/iamnadhu/Android/blob/master/Resources/android-icon.png">
+Created by [Nadhu](https://github.com/iamnadhu)
 
 
 ## My First App
