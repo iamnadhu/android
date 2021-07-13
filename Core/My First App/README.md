@@ -1,4 +1,4 @@
-# Login UI App [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/android-icon.png">](https://github.com/iamnadhu/Android/tree/master/Core/My%20First%20App)
+# My First App [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/android-icon.png">](https://github.com/iamnadhu/Android/tree/master/Core/My%20First%20App)
 Created by [Nadhu](https://linktr.ee/iamnadhu)
 
 
@@ -32,11 +32,11 @@ Created by [Nadhu](https://linktr.ee/iamnadhu)
 
 ### Screenshots:
 #### Light Mode
-<img src="https://github.com/iamnadhu/Android/blob/master/Core/My%20First%20App/Screenshots/01.jpg">
-<img src="https://github.com/iamnadhu/Android/tree/master/Core/My%20First%20App/Screenshots/02.jpg">
+<img src="https://github.com/iamnadhu/Android/blob/master/Core/My%20First%20App/Resources/01.jpgg">
+<img src="https://github.com/iamnadhu/Android/blob/master/Core/My%20First%20App/Resources/02.jpg">
 #### Dark Mode
-<img src="https://github.com/iamnadhu/Android/tree/master/Core/My%20First%20App/Screenshots/03.jpg">
-<img src="https://github.com/iamnadhu/Android/tree/master/Core/My%20First%20App/Screenshots/04.jpg">
+<img src="https://github.com/iamnadhu/Android/blob/master/Core/My%20First%20App/Resources/03.jpg">
+<img src="https://github.com/iamnadhu/Android/blob/master/Core/My%20First%20App/Resources/04.jpg">
 
 
 ## Author [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/auther-icon.png">](https://linktr.ee/iamnadhu)
