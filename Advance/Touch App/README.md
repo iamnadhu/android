@@ -21,11 +21,11 @@ Created by [Nadhu](https://linktr.ee/iamnadhu)
 ```
 
 ### Screenshots:
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Sessions/Touch%20App/Screenshots/01.png)
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Sessions/Touch%20App/Screenshots/02.png)
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Sessions/Touch%20App/Screenshots/03.png)
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Sessions/Touch%20App/Screenshots/04.png)
-![screenshot](https://github.com/iamnadhu/n14-android/blob/master/Sessions/Touch%20App/Screenshots/05.png)
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Advance/Touch%20App/Resources/01.png)
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Advance/Touch%20App/Resources/02.png)
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Advance/Touch%20App/Resources/03.png)
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Advance/Touch%20App/Resources/04.png)
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Advance/Touch%20App/Resources/05.png)
 
 
 ## Author [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/auther-icon.png">](https://linktr.ee/iamnadhu)
