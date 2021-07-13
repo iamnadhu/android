@@ -2,18 +2,14 @@
 Created by [Nadhu](https://linktr.ee/iamnadhu)
 
 
-### Screenshots
-![screenshot](https://github.com/iamnadhu/Android/blob/master/Core/Login%20UI%20App/Resources/01.jpg)
-![screenshot](https://github.com/iamnadhu/Android/blob/master/Core/Login%20UI%20App/Resources/02.jpg)
-![screenshot](https://github.com/iamnadhu/Android/blob/master/Core/Login%20UI%20App/Resources/03.jpg)
-![screenshot](https://github.com/iamnadhu/Android/blob/master/Core/Login%20UI%20App/Resources/04.jpg)
-![screenshot](https://github.com/iamnadhu/Android/blob/master/Core/Login%20UI%20App/Resources/05.jpg)
-![screenshot](https://github.com/iamnadhu/Android/blob/master/Core/Login%20UI%20App/Resources/06.jpg)
-### Components Used:
+## Project Includes [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/projects-icon.png">](https://github.com/iamnadhu/Android)
+
+### Components / Widgets Used:
 ```
 - 'LinearLayout', 'TextView', 'Space', 'EditText', 'Button'
 ```
-### Things Learned:
+
+### Things Learn:
 ```
 - Button Click (via 'implements View.OnClickListener')
 - Purpose of 'setVisibility'
@@ -21,6 +17,19 @@ Created by [Nadhu](https://linktr.ee/iamnadhu)
 - Purpose of 'getText' vs 'setText'
 - Simple Validation in Android
 ```
+
+#### Extras:
+```
+- ---
+```
+
+### Screenshots:
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Core/Login%20UI%20App/Resources/01.jpg)
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Core/Login%20UI%20App/Resources/02.jpg)
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Core/Login%20UI%20App/Resources/03.jpg)
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Core/Login%20UI%20App/Resources/04.jpg)
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Core/Login%20UI%20App/Resources/05.jpg)
+![screenshot](https://github.com/iamnadhu/Android/blob/master/Core/Login%20UI%20App/Resources/06.jpg)
 
 
 ### Author [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/auther-icon.png">](https://linktr.ee/iamnadhu)
