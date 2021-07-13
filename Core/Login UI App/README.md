@@ -1,8 +1,8 @@
-# Login UI App [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/android-icon.png">](https://github.com/iamnadhu/Android)
+# Login UI App [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/android-icon.png">](https://github.com/iamnadhu/Android/tree/master/Core/Login%20UI%20App)
 Created by [Nadhu](https://linktr.ee/iamnadhu)
 
 
-## Project Includes [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/projects-icon.png">](https://github.com/iamnadhu/Android)
+## Project Includes [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/projects-icon.png">](https://github.com/iamnadhu/Android/tree/master/Core/Login%20UI%20App)
 
 ### Components / Widgets Used:
 ```
@@ -18,7 +18,7 @@ Created by [Nadhu](https://linktr.ee/iamnadhu)
 - Simple Validation in Android
 ```
 
-#### Extras:
+### Extras:
 ```
 - ---
 ```
@@ -32,7 +32,7 @@ Created by [Nadhu](https://linktr.ee/iamnadhu)
 ![screenshot](https://github.com/iamnadhu/Android/blob/master/Core/Login%20UI%20App/Resources/06.jpg)
 
 
-### Author [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/auther-icon.png">](https://linktr.ee/iamnadhu)
+## Author [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/auther-icon.png">](https://linktr.ee/iamnadhu)
 Created by [Nadhu](https://linktr.ee/iamnadhu)
 
 [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/nadhu-icon.jpg">](https://linktr.ee/iamnadhu)
@@ -52,5 +52,5 @@ Show your support!
 Please ⭐️   this repository if this section helped you!
 
 
-### License [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/license-icon.png">](https://github.com/iamnadhu/Android)
+## License [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/license-icon.png">](https://github.com/iamnadhu/Android/tree/master/Core/Login%20UI%20App)
 Copyright © 2021-2022 [Nadhu](https://linktr.ee/iamnadhu)
