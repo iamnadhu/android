@@ -1,4 +1,4 @@
-# Login UI App [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/android-icon.png">](https://github.com/iamnadhu/Android/tree/master/Projects/Chat%20App)
+# Chat App [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/android-icon.png">](https://github.com/iamnadhu/Android/tree/master/Projects/Chat%20App)
 Created by [Nadhu](https://linktr.ee/iamnadhu)
 
 
